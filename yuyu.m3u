@@ -3,8 +3,8 @@
 http://live.cooltv.top/tv/gd.php?id=jjkj
 #EXTINF:-1 tvg-name="广东卫视" group-title="电视台",广东卫视
 http://live.cooltv.top/tv/gd.php?id=gdws
-#EXTINF:-1 tvg-name="广东卫视" group-title="电视台",广东卫视
-http://live.cooltv.top/tv/aishang.php?id=gdwshd
+#http://122.224.232.226:8888/udp/233.50.201.102:5140
+#http://live.cooltv.top/tv/aishang.php?id=gdwshd
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="电视台",黑龙江卫视
 http://live.cooltv.top/tv/aishang.php?id=hljwshd
 #EXTINF:-1 tvg-name="岭南戏曲" group-title="电视台",岭南戏曲
@@ -13,6 +13,9 @@ http://live.cooltv.top/tv/gd.php?id=lnxq
 http://live.cooltv.top/tv/gd.php?id=gdzj
 #EXTINF:-1 tvg-name="广东影视" group-title="电视台",广东影视
 http://live.cooltv.top/tv/gd.php?id=gdys
+#EXTINF:-1 group-title="电视台" tvg-logo="https://epg.112114.xyz/logo/广东体育.png",广东体育
+http://120.234.220.107:9000/udp/239.20.0.103:2004
+#http://yzfvip.top:8000/rtp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="电视台",广东体育
 http://live.cooltv.top/tv/gd.php?id=gdty
 #EXTINF:-1 tvg-name="4k超高清" group-title="电视台",4k超高清
@@ -29,6 +32,7 @@ http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 #EXTINF:-1 tvg-name="CCTV6" group-title="电视台",CCTV6
 http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+#http://111.20.40.167/TVOD/88888893/224/3221226393/index.m3u8?icpid=88888893&from=1&popid=1&hms_devid=844,723&prioritypopid=1
 #EXTINF:-1 tvg-name="CCTV9" group-title="电视台",CCTV9
 http://live.cooltv.top/tv/aishang.php?id=cctv9hd
 #EXTINF:-1 tvg-name="CCTV13" group-title="电视台",CCTV13
@@ -37,6 +41,10 @@ http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 #EXTINF:-1 tvg-name="凤凰中文" group-title="电视台",凤凰中文
 http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+#EXTINF:-1 group-title="电视台" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",凤凰中文
+https://www.cntao.top/api/fhx.php?id=fhzw
+#EXTINF:-1 group-title="电视台" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
+https://www.cntao.top/api/fhx.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="电视台",凤凰资讯
 http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 #EXTINF:-1 tvg-name="J2" group-title="电视台",J2
