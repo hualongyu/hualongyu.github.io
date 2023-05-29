@@ -19,5 +19,17 @@ http://live.cooltv.top/tv/gd.php?id=stzh
 http://yzfvip.top:8000/rtp/239.77.1.131:5146
 #EXTINF:-1 tvg-name="汕头文旅体育" group-title="电视台",汕头文旅体育
 http://live.cooltv.top/tv/gd.php?id=stwl
+#EXTINF:-1 tvg-name="CCTV1" group-title="电视台",CCTV1
+http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+#EXTINF:-1 tvg-name="CCTV5" group-title="电视台",CCTV5
+http://live.cooltv.top/tv/aishang.php?id=cctv5hd
+#EXTINF:-1 tvg-name="CCTV6" group-title="电视台",CCTV6
+http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+#EXTINF:-1 tvg-name="CCTV9" group-title="电视台",CCTV9
+http://live.cooltv.top/tv/aishang.php?id=cctv9hd
+#EXTINF:-1 tvg-name="CCTV13" group-title="电视台",CCTV13
+http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+#EXTINF:-1 tvg-name="CCTV15" group-title="电视台",CCTV15
+http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 #EXTINF:-1 tvg-name="华视" group-title="电视台",华视
 http://162.19.247.76:22222/live/huashi/index.m3u8
