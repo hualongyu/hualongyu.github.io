@@ -1,1 +1,3 @@
-22
+#EXTM3U name="自制"
+#EXTINF:-1 tvg-name="经济科教" group-title="IPTV-电视台",经济科教
+rtp://239.77.0.167:5146
