@@ -57,6 +57,8 @@ http://162.19.247.76:22222/live/dsdyt/index.m3u8
 #EXTINF:-1 tvg-name="三立都会台" group-title="电视台",三立都会台
 http://162.19.247.76:22222/live/uch6/index.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻台" group-title="电视台",TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻台" group-title="电视台",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-name="緯來日本" group-title="电视台",緯來日本
 rtmp://119.81.124.89/sat/tv771
