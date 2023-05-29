@@ -11,7 +11,11 @@ http://live.cooltv.top/tv/gd.php?id=gdzj
 http://live.cooltv.top/tv/gd.php?id=gdys
 #EXTINF:-1 tvg-name="4k超高清" group-title="电视台",4k超高清
 http://live.cooltv.top/tv/gd.php?id=gdzy
-#EXTINF:-1 tvg-name="" group-title="电视台",4k超高清
+#EXTINF:-1 tvg-name="汕头综合" group-title="电视台",汕头综合
+http://live.cooltv.top/tv/gd.php?id=stzh
+#EXTINF:-1 tvg-name="汕头经济生活" group-title="电视台",汕头经济生活
 http://live.cooltv.top/tv/gd.php?id=stjj
+#EXTINF:-1 tvg-name="汕头文旅体育" group-title="电视台",汕头文旅体育
+http://live.cooltv.top/tv/gd.php?id=stwl
 #EXTINF:-1 tvg-name="华视" group-title="电视台",华视
 http://162.19.247.76:22222/live/huashi/index.m3u8
