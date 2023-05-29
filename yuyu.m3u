@@ -35,5 +35,19 @@ http://live.cooltv.top/tv/aishang.php?id=cctv9hd
 http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 #EXTINF:-1 tvg-name="CCTV15" group-title="电视台",CCTV15
 http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+#EXTINF:-1 tvg-name="凤凰中文" group-title="电视台",凤凰中文
+http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="电视台",凤凰资讯
+http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+#EXTINF:-1 tvg-name="J2" group-title="电视台",J2
+http://162.19.247.76:22222/live/tvbj2/index.m3u8
 #EXTINF:-1 tvg-name="华视" group-title="电视台",华视
 http://162.19.247.76:22222/live/huashi/index.m3u8
+#EXTINF:-1 tvg-name="东森电影台" group-title="电视台",东森电影台
+http://162.19.247.76:22222/live/dsdyt/index.m3u8
+#EXTINF:-1 tvg-name="三立都会台" group-title="电视台",三立都会台
+http://162.19.247.76:22222/live/uch6/index.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻台" group-title="电视台",TVBS新闻台
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 tvg-name="緯來日本" group-title="电视台",緯來日本
+rtmp://119.81.124.89/sat/tv771
