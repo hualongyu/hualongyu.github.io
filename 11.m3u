@@ -15,3 +15,13 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1,潮州戏曲
 http://hdl-czbtv-gb.sobeylive.com/czbtv2019/xqpl.m3u8
+#EXTINF:-1,东森电影,
+http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
+#EXTINF:-1,东森新闻
+http://120.84.96.82:808/hls/32/index.m3u8
+#EXTINF:-1,东森新闻
+http://123.51.230.108:18538/.m3u8
+#EXTINF:-1,东森新闻
+http://awei.beimua.com/yes.php?id=1
+#EXTINF:-1,东森新闻
+http://awei.beimua.com/iptv.php?id=44
