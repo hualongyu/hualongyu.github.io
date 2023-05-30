@@ -19,3 +19,9 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?blog.ntnas.top$超清1080P
 #EXTINF:-1,TVBS新闻[1920x1080]
 http://140.238.155.232:9000/jmsytb.m3u8?c=31&&$1920x1080
+#EXTINF:-1,TVBS新闻[1920x1080]
+https://epg.pw/stream/190e8006ef0ad2a921634e92149b4e86bc9e3c3e84e313038a014f7e2ed7d033.m3u8
+#EXTINF:-1,TVBS新闻[1920x1080]
+https://epg.pw/stream/a8375262d200e61a14aad4c36ce6e8bbf73426802b228e0bce5d4dae916c359e.m3u8
+#EXTINF:-1,TVBS新闻[1920x1080]
+https://epg.pw/stream/42d7818865bf2b03a5c67a05280af06922bb17873a4a35edb46bbeb41acb87d1.m3u8
