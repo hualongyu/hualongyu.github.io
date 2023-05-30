@@ -6,6 +6,7 @@
 广东卫视,http://live.cooltv.top/tv/aishang.php?id=gdwshd
 黑龙江卫视,http://live.cooltv.top/tv/aishang.php?id=hljwshd
 黑龙江卫视,http://120.234.220.107:9000/udp/239.10.0.133:1025
+岭南戏曲,http://fuhome.vicp.fun:4000/rtp/239.77.0.16:5146
 岭南戏曲,http://live.cooltv.top/tv/gd.php?id=lnxq
 广东珠江,http://live.cooltv.top/tv/gd.php?id=gdzj
 广东影视,http://live.cooltv.top/tv/gd.php?id=gdys
@@ -15,14 +16,11 @@
 4k超高清,http://live.cooltv.top/tv/gd.php?id=gdzy
 潮州综合,http://hdl-czbtv-gb.sobeylive.com/czbtv2019/czzhpd.flv
 潮州生活,http://hdl-czbtv-gb.sobeylive.com/czbtv2019/czggpd.flv
-汕头综合,http://live.cooltv.top/tv/gd.php?id=stzh
-汕头综合,http://120.234.220.107:9000/udp/239.77.1.130:5146
+汕头综合,http://fuhome.vicp.fun:4000/rtp/239.77.1.130:5146
 汕头综合,udp://239.77.1.130:5146
-汕头经济生活,http://yzfvip.top:8000/rtp/239.77.1.131:5146
-汕头经济生活,http://120.234.220.107:9000/udp/239.77.1.131:5146
+汕头经济生活,http://fuhome.vicp.fun:4000/rtp/239.77.1.131:5146
 汕头经济生活,udp://239.77.1.131:5146
-汕头文旅体育,http://live.cooltv.top/tv/gd.php?id=stwl
-汕头文旅体育,http://120.234.220.107:9000/udp/239.77.1.132:5146
+汕头文旅体育,http://fuhome.vicp.fun:4000/rtp/239.77.1.132:5146
 汕头文旅体育,udp://239.77.1.132:5146
 揭阳综合频道,http://120.234.220.107:9000/udp/239.21.0.91:3704
 揭阳公共高清,http://120.234.220.107:9000/udp/239.21.0.92:3708
