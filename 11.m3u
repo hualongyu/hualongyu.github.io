@@ -19,3 +19,5 @@ http://fuhome.vicp.fun:4000/rtp/239.253.43.47:5146
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1,凤凰资讯
 http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 group-title="📺GaTO",凤凰资讯
+P2p://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
