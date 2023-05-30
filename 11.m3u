@@ -5,9 +5,5 @@ http://fxhack.f3322.org:8000/udp/239.253.43.47:5146
 http://hdl-czbtv-gb.sobeylive.com/czbtv2019/czzhpd.flv
 #EXTINF:-1,潮州生活
 http://hdl-czbtv-gb.sobeylive.com/czbtv2019/czggpd.flv
-#EXTINF:-1,凤凰资讯
-mitv://generationnexxxt.com:18806/b4a94477b556404088328e7ebb5d7061
-#EXTINF:-1,TVBS新闻台
-mitv://generationnexxxt.com:18806/91100d8a72724d81a01474c26bb53a96
-#EXTINF:-1,中天新闻台
-mitv://generationnexxxt.com:18806/4148d280613d453fbfad1e2a0ce78643
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
