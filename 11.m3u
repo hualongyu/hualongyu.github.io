@@ -13,11 +13,9 @@ http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1,zt
-https://tv.puboat.com/live.m3u8?c=26@tv015
-#EXTINF:-1,zt
-http://59.125.101.187:10703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
-#EXTINF:-1,zt
-http://59.125.101.187:10703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1,zt
-http://59.125.101.187:10703/playlist.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" group-title="E.台湾",台视新闻 FHD ★
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="7176" tvg-logo="http://tv.sason.xyz/logo/zsxw.png" group-title="E.台湾",中视新闻 FHD ★
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6070" tvg-logo="http://tv.sason.xyz/logo/ztxw.png" group-title="E.台湾",中天新闻 FHD ★
+http://seb.sason.top/sc/ztxw_fhd.m3u8
