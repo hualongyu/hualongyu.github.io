@@ -1,11 +1,7 @@
 #EXTM3U name="CMCC IPTV"
 #EXTINF:-1,汕头文旅体育高清
 http://fxhack.f3322.org:8000/udp/239.253.43.47:5146
-#EXTINF:-1,汕头经济生活ᴴᴰ
-http://www.superkit.cn:8888/udp/239.253.43.46:5146
-#EXTINF:-1,汕头文旅体育ᴴᴰ
-http://www.kitcc.cn:8888/udp/239.77.1.132:5146
-#EXTINF:-1,凤凰资讯
-https://epg.pw/stream/5772dfa15bd2cdf1156296e7bd86b8d73cda671d17b2005d6700a8bb1e35cc5f.m3u8
-#EXTINF:-1,凤凰资讯
-https://epg.pw/stream/63423f0f48431e24cbdde18c6e89578e284232483ff3a62f01840ce718a804c4.m3u8
+#EXTINF:-1,潮州综合
+http://hdl-czbtv-gb.sobeylive.com/czbtv2019/czzhpd.flv
+#EXTINF:-1,汕头文旅体育
+http://www.superkit.cn:8888/udp/239.77.1.132:5146
