@@ -16,4 +16,6 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1,汕头文旅
 http://fuhome.vicp.fun:4000/rtp/239.253.43.47:5146
 #EXTINF:-1,凤凰资讯
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1,凤凰资讯
 http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
