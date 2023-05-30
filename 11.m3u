@@ -5,7 +5,9 @@ http://fxhack.f3322.org:8000/udp/239.253.43.47:5146
 http://hdl-czbtv-gb.sobeylive.com/czbtv2019/czzhpd.flv
 #EXTINF:-1,潮州生活
 http://hdl-czbtv-gb.sobeylive.com/czbtv2019/czggpd.flv
-#EXTINF:-1,岭南戏曲
-http://45.154.14.47:5678/gdtv.php?id=lnxq
-#EXTINF:-1,岭南戏曲
-http://124.222.238.146:3328/SMBD/smtv.php?id=lnxq
+#EXTINF:-1,凤凰资讯
+mitv://generationnexxxt.com:18806/b4a94477b556404088328e7ebb5d7061
+#EXTINF:-1,TVBS新闻台
+mitv://generationnexxxt.com:18806/91100d8a72724d81a01474c26bb53a96
+#EXTINF:-1,中天新闻台
+mitv://generationnexxxt.com:18806/4148d280613d453fbfad1e2a0ce78643
