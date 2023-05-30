@@ -14,6 +14,10 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1,zt
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/370
-#EXTINF:-1,凤凰资讯台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/18
+https://tv.puboat.com/live.m3u8?c=26@tv015
+#EXTINF:-1,zt
+http://59.125.101.187:10703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1,zt
+http://59.125.101.187:10703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1,zt
+http://59.125.101.187:10703/playlist.m3u8
