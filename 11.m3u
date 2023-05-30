@@ -1,6 +1,8 @@
 #EXTM3U name="CMCC IPTV"
 #EXTINF:-1,汕头文旅体育高清
 http://fxhack.f3322.org:8000/udp/239.253.43.47:5146
+#EXTINF:-1,汕头文旅
+http://fuhome.vicp.fun:4000/rtp/239.253.43.47:5146
 #EXTINF:-1,潮州综合
 http://hdl-czbtv-gb.sobeylive.com/czbtv2019/czzhpd.flv
 #EXTINF:-1,潮州生活
