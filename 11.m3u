@@ -59,7 +59,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 华视,rtmp://219.80.97.77/sat/tv111
 华视,rtmp://119.81.124.89/sat/tv111
 #EXTINF:-1,中天新闻
-#EXTINF:-1,from=web&sign=ab2084bfcea63e832e11823ef85fb417
+https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&timestamp=1684220061&rand=ozOJcRxKhv&uuid=9b647b3816b2a66a&from=web&sign=ab2084bfcea63e832e11823ef85fb417
 #EXTINF:-1,中天新闻
 http://awei.beimua.com/iptv.php?id=43
 中天亚洲,https://dispatch.ulivetv.net/v/live/cg0im4r5dh34.m3u8?stream_id=cg0im4r5dh34&timestamp=1684387396&rand=elyqrF9B5p&uuid=9b647b3816b2a66a&from=web&sign=2f82ff62ef9708e416766565d25cf769
