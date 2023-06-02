@@ -196,7 +196,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 纬来日本,rtmp://9wv7.mine.nu/sat/tv771
 纬来日本,rtmp://219.80.97.77/sat/tv771
 纬来日本,http://awei.beimua.com/iptv.php?id=74
-纬来日本,rtmp://119.81.124.89/sat/tv771
+纬来日本,C
 
 纬来体育,rtmp://9wv7.mine.nu/sat/tv721
 纬来体育,http://awei.beimua.com/iptv.php?id=73
@@ -318,6 +318,18 @@ ELEV,rtmp://9wv7.mine.nu/sat/tv731
 22[1280*720],http://awei.beimua.com/iptv.php?id=81
 41[1280*720],http://awei.beimua.com/iptv.php?id=2
 43,http://awei.beimua.com/yes.php?id=4
+
+yu516[1920*1080],http://123.51.230.108:18515/.m3u8
+yu526[1920*1080],http://123.51.230.108:18525/.m3u8
+yu535[720*576],http://123.51.230.108:18534/.m3u8
+yu541[1920*1080],http://123.51.230.108:18540/.m3u8
+yu561[1920*1080],http://123.51.230.108:18560/.m3u8
+yu664[1920*1080],http://123.51.230.108:18663/.m3u8
+
+A6[1280*720],rtmp://219.80.97.77/sat/tv051
+A8[1280*720],rtmp://219.80.97.77/sat/tv071
+A10[1280*720],rtmp://219.80.97.77/sat/tv091
+A73[1280*720],rtmp://219.80.97.77/sat/tv721
 
 
 
