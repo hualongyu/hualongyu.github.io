@@ -156,7 +156,7 @@ CCTV-16高清,http://fxhack.f3322.org:8000/udp/239.77.1.76:5146
 凤凰资讯,https://www.cntao.top/api/fhx.php?id=fhzx
 
 TVBS,http://awei.beimua.com/yes.php?id=4
-TVBS,http://awei.beimua.com/yes.php?id=4t/tv551
+TVBS,http://awei.beimua.com/yes.php?id=4
 
 中天新闻,http://awei.beimua.com/iptv.php?id=43
 中天新闻,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=pcg1049vjg14w&timestamp=1684220061&rand=ozOJcRxKhv&uuid=9b647b3816b2a66a&from=web&sign=ab2084bfcea63e832e11823ef85fb417
@@ -316,6 +316,8 @@ ELEV,rtmp://9wv7.mine.nu/sat/tv731
 20[1280*720],http://awei.beimua.com/iptv.php?id=79
 21[1280*720],http://awei.beimua.com/iptv.php?id=80
 22[1280*720],http://awei.beimua.com/iptv.php?id=81
+41[1280*720],http://awei.beimua.com/iptv.php?id=2
+43,http://awei.beimua.com/yes.php?id=4
 
 
 
