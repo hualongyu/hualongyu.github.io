@@ -164,12 +164,14 @@ TVBS,http://awei.beimua.com/yes.php?id=4
 华视,rtmp://9wv7.mine.nu/sat/tv111
 华视,http://awei.beimua.com/iptv.php?id=63
 华视,rtmp://219.80.97.77/sat/tv111
+华视,rtmp://218.32.29.20/sat/tv111
 华视,rtmp://119.81.124.89/sat/tv111
 
 
 TVBS欢乐,rtmp://9wv7.mine.nu/sat/tv421
 TVBS欢乐,rtmp://219.80.97.77/sat/tv421
 TVBS欢乐,rtmp://119.81.124.89/sat/tv421
+TVBS欢乐台,rtmp://218.32.29.20/sat/tv421
 
 TVBS新闻,rtmp://9wv7.mine.nu/sat/tv551
 TVBS新闻,http://awei.beimua.com/iptv.php?id=54
@@ -202,11 +204,13 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 纬来体育,http://awei.beimua.com/iptv.php?id=73
 纬来体育,rtmp://119.81.124.89/sat/tv721
 纬来体育,rtmp://219.80.97.77/sat/tv721
+纬来体育,rtmp://218.32.29.20/sat/tv721
 
 纬来育乐,rtmp://9wv7.mine.nu/sat/tv701
 纬来育乐,http://awei.beimua.com/iptv.php?id=75
 纬来育乐,rtmp://219.80.97.77/sat/tv701
 纬来育乐,rtmp://119.81.124.89/sat/tv701
+纬来育乐,rtmp://218.32.29.20/sat/tv701
 
 纬来综合,http://123.51.230.108:18540/.m3u8
 
@@ -228,13 +232,16 @@ J2 4K,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNU
 东森财经新闻,rtmp://9wv7.mine.nu/sat/tv571
 东森财经新闻,rtmp://219.80.97.77/sat/tv571
 东森财经新闻,rtmp://119.81.124.89/sat/tv571
+东森财经新闻,rtmp://218.32.29.20/sat/tv571
 
 东森超视,rtmp://9wv7.mine.nu/sat/tv331
 东森超视,https://dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&timestamp=1684387336&rand=hRjFJPWUVJ&uuid=9b647b3816b2a66a&from=web&sign=ac6df939675cc553a14ab611dcb56948
 东森超视,http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 东森超视,rtmp://119.81.124.89/sat/tv331
+东森超视,rtmp://218.32.29.20/sat/tv331
 
 ELEV,rtmp://9wv7.mine.nu/sat/tv731
+ELEV,rtmp://218.32.29.20/sat/tv731
 
 东森电影,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
 东森电影,http://120.84.96.82:808/hls/32/index.m3u8
@@ -253,6 +260,7 @@ ELEV,rtmp://9wv7.mine.nu/sat/tv731
 民视,rtmp://9wv7.mine.nu/sat/tv051
 民视,http://awei.beimua.com/iptv.php?id=62
 民视,rtmp://119.81.124.89/sat/tv051
+民视,rtmp://218.32.29.20/sat/tv051
 
 
 民视新闻,http://123.51.230.108:18663/.m3u8
