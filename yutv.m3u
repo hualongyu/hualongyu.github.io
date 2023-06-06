@@ -240,13 +240,16 @@ CCTV-16高清,http://fxhack.f3322.org:8000/udp/239.77.1.76:5146
 凤凰资讯,http://awei.beimua.com/yes.php?id=2
 凤凰资讯,https://www.cntao.top/api/fhx.php?id=fhzx
 
+翡翠,http://r.jdshipin.com/qClQf
+
 美亚电影台,https://cdn.hklive.tv/xxxx/201/index.m3u8
 东森幼幼,https://git.io/JgYON
+
+
+TVBS,http://awei.beimua.com/yes.php?id=4
+TVBS,http://awei.beimua.com/yes.php?id=4
+
 中天新闻,https://git.io/Jgkpy
-
-TVBS,http://awei.beimua.com/yes.php?id=4
-TVBS,http://awei.beimua.com/yes.php?id=4
-
 中天新闻,http://awei.beimua.com/iptv.php?id=43
 中天新闻,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=pcg1049vjg14w&timestamp=1684220061&rand=ozOJcRxKhv&uuid=9b647b3816b2a66a&from=web&sign=ab2084bfcea63e832e11823ef85fb417
 中天新闻,http://awei.beimua.com/yes.php?id=43
@@ -262,7 +265,7 @@ TVBS,http://awei.beimua.com/yes.php?id=4
 中天新闻,https://tv.puboat.com/live.m3u8?c=26
 中天新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
 中天新闻,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&timestamp=1685187300&rand=SItVoOb1jj&uuid=9b647b3816b2a66a&from=web&sign=ee9793023b0702b7fcd1bb47ca489dd7
-中天综合,http://61.221.81.93:8078/hls/35/80/cti.m3u8
+
 中天新闻1,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 中天新闻1,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&timestamp=1685187300&rand=SItVoOb1jj&uuid=9b647b3816b2a66a&from=web&sign=ee9793023b0702b7fcd1bb47ca489dd7
 中天新闻1,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
@@ -291,6 +294,7 @@ TVBS新闻,rtmp://119.81.124.89/sat/tv551
 TVBS新闻,https://dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&timestamp=1684220007&rand=01XVtfQV30&uuid=9b647b3816b2a66a&from=web&sign=07ce20e47593bcc2f19630a482a34b5b
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,https://dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&timestamp=1684220007&rand=01XVtfQV30&uuid=9b647b3816b2a66a&from=web&sign=07ce20e47593bcc2f19630a482a34b5b
 
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -301,7 +305,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 中天亚洲,https://dispatch.ulivetv.net/v/live/cg0im4r5dh34.m3u8?stream_id=cg0im4r5dh34&timestamp=1684387396&rand=elyqrF9B5p&uuid=9b647b3816b2a66a&from=web&sign=2f82ff62ef9708e416766565d25cf769
 中天亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 
-中天综合,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1684387487&rand=h5ZAGkW3j1&uuid=9b647b3816b2a66a&from=web&sign=190c1b05dbf0f302a89ff5463ea6a99c
+中天综合,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1684387487&rand=h5ZAGkW3j1&uuid=9b647b3816b2a66a&from=web&sign=190c1b05dbf0f302a89ff5463ea6a99c中天综合,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1684387487&rand=h5ZAGkW3j1&uuid=9b647b3816b2a66a&from=web&sign=190c1b05dbf0f302a89ff5463ea6a99c
+中天综合,http://61.221.81.93:8078/hls/35/80/cti.m3u8
 
 纬来日本,rtmp://9wv7.mine.nu/sat/tv771
 纬来日本,rtmp://219.80.97.77/sat/tv771
@@ -382,6 +387,18 @@ ELEV,rtmp://218.32.29.20/sat/tv731
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+
+台视新闻,https://dispatch.ulivetv.net/v/live/cfxww2r4nnwg.m3u8?stream_id=cfxww2r4nnwg&timestamp=1684387599&rand=ppf2G1Add7&uuid=9b647b3816b2a66a&from=web&sign=9938a91fced907abe987ccf609ed9b64
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+ELEVEN体育-1,https://dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&timestamp=1685524144&rand=wYWW1gN677&uuid=9b647b3816b2a66a&from=web&sign=29dc3448ce8b76d4618d40dee524710f
+
+ELEVEN体育-2,https://dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&timestamp=1685524158&rand=CQHdy8pRCt&uuid=9b647b3816b2a66a&from=web&sign=e8a57bc3c84659070567b155b07d738f
+
+ELTA体育-1,https://dispatch.ulivetv.net/v/live/clecyhjewngg.m3u8?stream_id=clecyhjewngg&timestamp=1685524442&rand=y83Gro4eJI&uuid=9b647b3816b2a66a&from=web&sign=24aab8c5837909141b9d3a1946e13d01
+
+ELTA体育-2,https://dispatch.ulivetv.net/v/live/clecysls7oow.m3u8?stream_id=clecysls7oow&timestamp=1685524456&rand=Cy2bneWGAZ&uuid=9b647b3816b2a66a&from=web&sign=0ad304ea2e6cfc3d295d806254c08a9c
+
+
 
 智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
