@@ -11,6 +11,7 @@
 潮州生活,http://hdl-czbtv-gb.sobeylive.com/czbtv2019/czggpd.flv
 
 汕头综合,http://fuhome.vicp.fun:4000/rtp/239.253.43.30:5146
+rtp://239.77.1.130:5146#rtp://239.253.43.45:5146
 
 汕头经济生活,http://fuhome.vicp.fun:4000/rtp/239.253.43.46:5146
 
@@ -32,8 +33,36 @@
 
 汕尾生活高清,http://120.234.220.107:9000/udp/239.21.0.90:3700
 
+岭南戏曲,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1460
+汕头综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=shantouyitaogaoqing_4500
+汕头经济生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=shantouertaogaoqing_4500
+汕头文旅体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2508_4500
+潮州综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=3131
+潮州民生,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=3132
+
+广东体育高清,http://120.234.220.107:9000/udp/239.20.0.97:3012
+
 CCTV-6高清,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
 CCTV-6高清,http://120.234.220.107:9000/udp/239.20.0.29:3288
 CCTV-6高清,http://111.20.40.167/TVOD/88888893/224/3221226393/index.m3u8?icpid=88888893&from=1&popid=1&hms_devid=844,723&prioritypopid=1
+CCTV-13高清,http://120.234.220.107:9000/udp/239.21.0.88:3692
 
+TVBS,http://sc2022.stream-link.org/list.php?id=t014
+TVBS新闻,http://sc2022.stream-link.org/list.php?id=t013
+TVBS新闻,rtmp://9wv7.mine.nu/sat/tv551
+TVBS新闻,rtmp://219.80.97.77/sat/tv551
+TVBS新闻,rtmp://119.81.124.89/sat/tv551
+TVBS欢乐,rtmp://9wv7.mine.nu/sat/tv421
+TVBS欢乐,rtmp://219.80.97.77/sat/tv421
+TVBS欢乐,rtmp://119.81.124.89/sat/tv421
+中天新闻,http://sc2022.stream-link.org/list.php?id=t003
+东森新闻,http://sc2022.stream-link.org/list.php?id=t001
+东森财经,http://sc2022.stream-link.org/list.php?id=t002
+东森财经,rtmp://9wv7.mine.nu/sat/tv571
+东森财经,rtmp://219.80.97.77/sat/tv571
+东森财经,rtmp://119.81.124.89/sat/tv571
+东森超视,rtmp://9wv7.mine.nu/sat/tv331
+东森超视,rtmp://219.80.97.77/sat/tv331
+东森超视,rtmp://119.81.124.89/sat/tv331
+东森幼幼,http://sc2022.stream-link.org/list.php?id=t026
 
