@@ -1,2 +1,16 @@
 电视台,#genre#
 华视,rtmp://218.32.29.20/sat/tv111
+纬来体育,rtmp://218.32.29.20/sat/tv721
+纬来育乐,rtmp://218.32.29.20/sat/tv701
+东森超视,rtmp://218.32.29.20/sat/tv331
+TVBS欢东台,rtmp://218.32.29.20/sat/tv421
+
+我的人间烟火,#genre#
+第1集,https://vip.lz-cdn12.com/20230705/8697_045868d5/index.m3u8
+第2集,https://vip.ffzyread1.com/20230705/14840_cfba065a/index.m3u8
+第3集,https://vip.lz-cdn12.com/20230705/8696_0b50d86f/index.m3u8
+第4集,https://vip.lz-cdn12.com/20230705/8694_6800427e/index.m3u8
+第5集,https://vip.ffzyread1.com/20230705/14843_6055533f/index.m3u8
+第6集,https://vip.ffzyread1.com/20230705/14844_0aeb51ba/index.m3u8
+第7集,https://vip.ffzyread1.com/20230706/14894_eb8bcedd/index.m3u8
+第8集,https://vip.ffzyread1.com/20230706/14893_e3ab8026/index.m3u8
