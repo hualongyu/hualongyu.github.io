@@ -5,6 +5,8 @@
 纬来育乐,rtmp://218.32.29.20/sat/tv701
 东森超视,rtmp://218.32.29.20/sat/tv331
 TVBS欢东台,rtmp://218.32.29.20/sat/tv421
+中天娱乐,mitv://generationnexxxt.com:19806/97163a966a4a49ac888dbd606b965cf4
+东森综合,mitv://generationnexxxt.com:19806/88fe82e39e1b409294c51f5b346de0e1
 
 我的人间烟火(高清),#genre#
 第1集,https://s.xlzys.com/play/RdG7G7Qd/index.m3u8
