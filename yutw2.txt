@@ -11,6 +11,17 @@ TW4,#genre#
 TW2,#genre#
 
 中天新闻12,P2p://135.148.104.228:19806/645a505500087efb629eacb405a54a42
+东森新闻,mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
+TVBS新闻,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
+卫视电影,mitv://generationnexxxt.com:19806/e6614f107c924a868360f724bf10f9d8
+东森电影,mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
+纬来电影,mitv://generationnexxxt.com:19806/ae654eeece794e40b003597793cf810a
+HBO,mitv://generationnexxxt.com:19806/dc01bf43a9fd4c0594f0a73ee31ab4a5
+东森洋片,mitv://generationnexxxt.com:19806/cbe8fad92b7e4497bce416a75eae4708
+AXN,mitv://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a
+好莱坞电影,mitv://generationnexxxt.com:19806/86c7f4066b9c49f3808094bd356b8b33
+Cinemax,mitv://generationnexxxt.com:19806/1d1c586a05ef4c13b029464c6d4644a1
+
 
 
 TW,#genre#
