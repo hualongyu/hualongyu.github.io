@@ -1,3 +1,4 @@
+TW,#genre#
 中视,mitv://generationnexxxt.com:19806/f1f4f77c21e2470e9c29111c9370bf08
 霹雳台湾,mitv://generationnexxxt.com:19806/80c8f58fc21942e3ad01345739d3094f
 华视,mitv://generationnexxxt.com:19806/4ce3296b98794b2ca8e1f040657e327b
@@ -168,7 +169,7 @@ MTV,mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa
 Arirang,mitv://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e
 tvN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
 DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
-##
+晴天2,#genre#
 France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
 非凡商业台,mitv://generationnexxxt.com:19806/5fd11cbd11bc4481b7e3b16808b70a5d
 公视3台,mitv://generationnexxxt.com:19806/644b68b6000986562865dcfd18684edd
@@ -291,7 +292,7 @@ Star Movies Gold,mitv://generationnexxxt.com:19806/644e9b27000a398734e2e69461187
 Taiwan+,mitv://generationnexxxt.com:19806/440274e63a1e4db099c42291fa80f43b
 东森购物2台,mitv://generationnexxxt.com:19806/44be4ceee59e4f5fb65ec5c2aa672e35
 东森购物1台,mitv://generationnexxxt.com:19806/cc3ef976a9114c769714c313df7f1faf
-##
+晴天3,#genre#
 CCTV1,mitv://generationnexxxt.com:19806/5cb2056ba225422aab04f0ff6c1a1ad9
 CCTV2,mitv://generationnexxxt.com:19806/1c7a2a5c0c384637bb942eb49cc1e0ee
 CCTV3,mitv://generationnexxxt.com:19806/18330ef800b2458892c9761dab67e610
@@ -423,7 +424,7 @@ KIX,mitv://generationnexxxt.com:19806/04533ea3664e43579573b50db8988450
 HITS,mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
 Astro Arena,mitv://generationnexxxt.com:19806/6458c64c000b217e5c9b7a38341006fd
 Astro SuperSport,mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0
-##
+晴天4,#genre#
 Astro SuperSport 2,mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9
 Astro SuperSport 3,mitv://generationnexxxt.com:19806/644a3bac000c472123cdeea90ef57521
 Astro SuperSport 4,mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8
