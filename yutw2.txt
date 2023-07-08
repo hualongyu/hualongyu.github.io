@@ -10,9 +10,34 @@ TW4,#genre#
 
 TW2,#genre#
 
+
 中天新闻12,P2p://135.148.104.228:19806/645a505500087efb629eacb405a54a42
+TVBS,mitv://generationnexxxt.com:19806/644d1a13000e2f842f02b17e6e9f6cae
 东森新闻,mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
 TVBS新闻,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
+东森新闻台,mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
+中天新闻台,mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c
+民视新闻台,mitv://generationnexxxt.com:19806/64577cff0001eb7c5795230f6bb8749b
+三立新闻台,mitv://generationnexxxt.com:19806/645500960008581e4ddf1fbf03fc57a9
+TVBS新闻台,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
+TVBS,mitv://generationnexxxt.com:19806/644d1a13000e2f842f02b17e6e9f6cae
+东森财经新闻台,mitv://generationnexxxt.com:19806/644bc6970002cc0e29d4923028d9436e
+
+TVBS新闻,rtmp://218.32.29.20/sat/tv551
+
+
+TVBS欢乐台,rtmp://218.32.29.20/sat/tv421
+
+纬来日本,rtmp://218.32.29.20/sat/tv771
+
+纬来体育,rtmp://218.32.29.20/sat/tv721
+纬来育乐,rtmp://218.32.29.20/sat/tv701
+东森财经新闻,rtmp://218.32.29.20/sat/tv571
+东森超视,rtmp://218.32.29.20/sat/tv331
+ELEV,rtmp://218.32.29.20/sat/tv731
+民视,rtmp://218.32.29.20/sat/tv051
+华视,rtmp://218.32.29.20/sat/tv111
+
 卫视电影,mitv://generationnexxxt.com:19806/e6614f107c924a868360f724bf10f9d8
 东森电影,mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
 纬来电影,mitv://generationnexxxt.com:19806/ae654eeece794e40b003597793cf810a
