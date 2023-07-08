@@ -1,7 +1,6 @@
 TW4,#genre#
 
 中天新闻7,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新闻8,https://epg.pm/stream/526f164cdabe04bee921865bb05037255c22ccbeb50cafd3a4ec83cc00514447.m3u8
 中天新闻台16,mitv://135.148.104.228:19806/645a505500087efb629eacb405a54a42
 中天新闻11,https://epg.pw/stream/25ad4f6fc79b3056493d216b262e50e76fb54a10e0359f866271278432f383ad.m3u8
 中天新闻12,P2p://135.148.104.228:19806/645a505500087efb629eacb405a54a42
