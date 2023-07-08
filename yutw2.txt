@@ -9,25 +9,9 @@ TW4,#genre#
 
 
 TW2,#genre#
-中天新闻1,http://sc2022.stream-link.org/tv2306.php?id=t03
 
-中天新闻7,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新闻16,mitv://135.148.104.228:19806/645a505500087efb629eacb405a54a42
-中天新闻11,https://epg.pw/stream/25ad4f6fc79b3056493d216b262e50e76fb54a10e0359f866271278432f383ad.m3u8
 中天新闻12,P2p://135.148.104.228:19806/645a505500087efb629eacb405a54a42
-中天新闻13,mitv://generationnexxxt.com:19806/645a505500087efb629eacb405a54a42
-中天新闻14,https://epg.pw/stream/25ad4f6fc79b3056493d216b262e50e76fb54a10e0359f866271278432f383ad.m3u8
-中天新闻2,p2p://211.75.214.186:9906/57a709c1000734543cfdf9a7bc78e8df.ts
-中天新闻3,P2p://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
-中天新闻4,p2p://fccsovh.pvbox.live:18912/5b14096a000dc917ee549a939989ba74.ts
-中天新闻5,P2p://ns2.hellotvvod.com:9906/ffe8e8fa8e244b32bdec3b38a2f2b7aa.ts
-中天新闻6,P2p://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
-中天新闻8,P2p://147.135.39.171:9906/5d9a3461000c5e329cd7e0cc2586313a.ts
-中天新闻9,P2p://147.135.39.171:9906/5eec7db90008195bf160a77f5d316f05.ts
-中天新闻20,p2p://54.39.16.152:9906/625af85e0000d79c001149459e0c9b4f
-中天新闻21,P2p://ns1.hellotvvod.com:9906/1024c12594c343b6af5dff660d002058
-中天新闻22,p2p://138.68.6.47:8290/571e917800045e3f3ff05e07668d4ed2
-中天新闻,p2p://banana.jdf.so:6003/56b6b8770007dbb809583c2b71ba4cab&link=wvw.f0rcetech.c0m
+
 
 TW,#genre#
 中视,mitv://generationnexxxt.com:19806/f1f4f77c21e2470e9c29111c9370bf08
