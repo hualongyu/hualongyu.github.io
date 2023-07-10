@@ -2,12 +2,6 @@
 rtmp://218.32.29.20/sat/tv111
 #EXTINF:-1 group-title="电视台",纬来日本
 rtmp://218.32.29.20/sat/tv771
-#EXTINF:-1 group-title="电视台",国兴卫视
-P2p://sdgdklwos.finetv.tv:9906/59fd0565000d04390229912232d21634
-#EXTINF:-1 group-title="电视台",国兴卫视
-mitv://135.148.104.228:19806/6457861a0007f0fb57b8b61d67816348
-#EXTINF:-1 group-title="电视台",国兴卫视
-mitv://ns2.hellotvvod.com:9906/3a9402f848de4318b53c26ffd5cc6838
 #EXTINF:-1 group-title="电视台",纬来体育
 rtmp://218.32.29.20/sat/tv721
 #EXTINF:-1 group-title="电视台",纬来育乐
