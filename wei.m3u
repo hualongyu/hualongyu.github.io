@@ -1,5 +1,9 @@
 #EXTINF:-1 group-title="电视台",华视
 rtmp://218.32.29.20/sat/tv111
+#EXTINF:-1 group-title="电视台",纬来日本
+rtmp://218.32.29.20/sat/tv761
+#EXTINF:-1 group-title="电视台",国兴卫视
+mitv://generationnexxxt.com:19806/6457861a0007f0fb57b8b61d67816348
 #EXTINF:-1 group-title="电视台",纬来体育
 rtmp://218.32.29.20/sat/tv721
 #EXTINF:-1 group-title="电视台",纬来育乐
