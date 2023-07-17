@@ -1,7 +1,7 @@
 
 TW2,#genre#
 广东经济科教,http://hualonghualong.tk:4060/rtp/239.77.0.85:5146
-
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 
 TVBS新闻,rtmp://218.32.29.20/sat/tv551
 
