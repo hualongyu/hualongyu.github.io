@@ -8,7 +8,7 @@ TVBS欢东台,rtmp://218.32.29.20/sat/tv421
 东森财经新闻,rtmp://218.32.29.20/sat/tv571
 
 测试1,http://www.hualong.cf:5678/sxg.php
-测试2,http://www.hualong.cf:5678/gudou.php
+测试3,http://www.hualong.cf:5678/bestv.php
 
 我的人间烟火(高清),#genre#
 第1集,https://s.xlzys.com/play/RdG7G7Qd/index.m3u8
