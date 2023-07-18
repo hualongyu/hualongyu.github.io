@@ -1,25 +1,13 @@
 电视台,#genre#
 华视,rtmp://218.32.29.20/sat/tv111
-华视,mitv://generationnexxxt.com:19806/8a4bfdfe9e844addb903a90141d2fad5
 纬来日本,rtmp://218.32.29.20/sat/tv761
-纬来日本,mitv://generationnexxxt.com:19806/83bd0d8db4124c15ad8f88828c6b344b
-国兴卫视,mitv://generationnexxxt.com:19806/6457861a0007f0fb57b8b61d67816348
 纬来体育,rtmp://218.32.29.20/sat/tv721
-纬来体育,mitv://generationnexxxt.com:19806/801a9a12c10d4d04953332771aee0dba
 纬来育乐,rtmp://218.32.29.20/sat/tv701
-纬来育乐,mitv://generationnexxxt.com:19806/dd458fff62614481a7e9d65da897af75
 东森超视,rtmp://218.32.29.20/sat/tv331
-东森超视,mitv://generationnexxxt.com:19806/a1a5f1b22da74d458bf6cfff8c190c6f
 TVBS欢东台,rtmp://218.32.29.20/sat/tv421
-TVBS欢东台,mitv://generationnexxxt.com:19806/a821cda61eec4693bceec6cb79d88a34
-中天娱乐,mitv://generationnexxxt.com:19806/97163a966a4a49ac888dbd606b965cf4
-中天综合,mitv://generationnexxxt.com:19806/6458c64d00033f105c9b7c1c35097dec
-东森综合,mitv://generationnexxxt.com:19806/88fe82e39e1b409294c51f5b346de0e1
-八大娱乐台,mitv://generationnexxxt.com:19806/58f45dfdc5c8449d94b4341a63fe9031
-三立都会,mitv://generationnexxxt.com:19806/f9f1b6bc8bd943f09b7a17bc481294da
-TLC旅游生活,mitv://generationnexxxt.com:19806/bc6c20458c4c422b9297dbfd25f12f67
-东森财经新闻,mitv://generationnexxxt.com:19806/644bc6970002cc0e29d4923028d9436e
 东森财经新闻,rtmp://218.32.29.20/sat/tv571
+
+测试,http://www.hualong.cf:5678/sxg.php
 
 我的人间烟火(高清),#genre#
 第1集,https://s.xlzys.com/play/RdG7G7Qd/index.m3u8
