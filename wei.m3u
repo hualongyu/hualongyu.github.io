@@ -11,7 +11,7 @@ rtmp://218.32.29.20/sat/tv331
 #EXTINF:-1 group-title="电视台",TVBS欢东台
 rtmp://218.32.29.20/sat/tv421
 #EXTINF:-1 group-title="电视台",饶平综合
-http://14.216.129.139:5678/gudou.php?phone=13392382276&ptoken=zBbw9PLkmZ8ZON%2Fb9QyBZA%3D%3D&pserialnumber=5d84cb6c4f9a94d4&cid=322&id=raopingtaiHD_4500
+http://www.hualong.cf:5678/sxg.php
 #EXTINF:-1 group-title="电视台",CCTV3
 http://14.216.129.139:5678/gudou.php?phone=13392382276&ptoken=zBbw9PLkmZ8ZON%2Fb9QyBZA%3D%3D&pserialnumber=5d84cb6c4f9a94d4&cid=322&id=CCTV3HD_1500
 
