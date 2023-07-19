@@ -12,6 +12,9 @@ TVBS欢东台,rtmp://218.32.29.20/sat/tv421
 测试7DU,http://www.hualong.cf:35455/douyu/9249162
 测试8DU,http://www.hualong.cf:35455/douyu/8752108
 
+测试9,http://www.hualong.cf:35455/youtube/oIgbl7t0S_w
+测试10,http://www.hualong.cf:35455/youtube.go?id=oIgbl7t0S_w
+
 测试1,http://www.hualong.cf:5678/sxg.php
 测试2,http://www.hualong.cf:5678/sxg.php?id=CCTV-13H265_4000
 测试3,http://www.hualong.cf:5678/sxg.php?id=wqCHCdzdyH265_4000
