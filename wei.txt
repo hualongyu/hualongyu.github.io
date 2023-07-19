@@ -15,7 +15,7 @@ TVBS HD,http://www.hualong.cf:35455/youtube/YvdcZ_jpLXE
 
 
 小新直播,http://www.hualong.cf:35455/douyu/8752108
-小新,http://www.hualong.cf:35455/douyin?url=https://v.douyin.com/i4AVdCd/
+小夜,http://www.hualong.cf:35455/douyin?url=https://v.douyin.com/i4AVdCd
 
 测试6,http://www.hualong.cf:5678/gudou.php?id=1350_4500
 测试7DU,http://www.hualong.cf:35455/douyu/9249162
