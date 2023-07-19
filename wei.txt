@@ -6,10 +6,11 @@
 东森超视,rtmp://218.32.29.20/sat/tv331
 TVBS欢东台,rtmp://218.32.29.20/sat/tv421
 东森财经新闻,rtmp://218.32.29.20/sat/tv571
+小新直播,http://www.hualong.cf:35455/douyu/8752108
 
 测试6,http://www.hualong.cf:5678/gudou.php?id=1350_4500
 测试7DU,http://www.hualong.cf:35455/douyu/9249162
-测试8DU,http://www.hualong.cf:35455/douyu/xiaoxin
+测试8DU,http://www.hualong.cf:35455/douyu/8752108
 
 测试1,http://www.hualong.cf:5678/sxg.php
 测试2,http://www.hualong.cf:5678/sxg.php?id=CCTV-13H265_4000
