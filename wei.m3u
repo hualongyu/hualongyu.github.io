@@ -10,10 +10,6 @@ rtmp://218.32.29.20/sat/tv701
 rtmp://218.32.29.20/sat/tv331
 #EXTINF:-1 group-title="电视台",TVBS欢东台
 rtmp://218.32.29.20/sat/tv421
-#EXTINF:-1 group-title="电视台",饶平综合22
-http://www.hualong.cf:5678/sxg.php
-#EXTINF:-1 group-title="电视台",CCTV3
-http://14.216.129.139:5678/gudou.php?phone=13392382276&ptoken=zBbw9PLkmZ8ZON%2Fb9QyBZA%3D%3D&pserialnumber=5d84cb6c4f9a94d4&cid=322&id=CCTV3HD_1500
 
 #EXTINF:-1 group-title="电影",阿凡达2-水之道
 https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2023/0330/video/23956c8bb98f49feaf40592d38f7aa12_main.m3u8?auth_key=1680695377-b7b598a9b70640e0bb25285a2a29c702-0-22473001735c99c8d0ec57811a90ee34
@@ -32,45 +28,45 @@ https://vip.ffzy-online6.com/20230629/14255_d5845364/index.m3u8
 
 
 
-#EXTINF:-1 group-title="我的人间烟火",第1集
-https://vip.lz-cdn12.com/20230705/8697_045868d5/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第2集
-https://vip.ffzyread1.com/20230705/14840_cfba065a/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第3集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第1集
+https://vip.lz-cdn.com/20220608/17582_d6949eeb/index.m3u8
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第2集
+https://vip.lz-cdn.com/20220608/17583_e307f831/index.m3u8
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第3集
 https://vip.lz-cdn12.com/20230705/8696_0b50d86f/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第4集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第4集
 https://vip.lz-cdn12.com/20230705/8694_6800427e/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第5集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第5集
 https://vip.ffzyread1.com/20230705/14843_6055533f/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第6集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第6集
 https://vip.ffzyread1.com/20230705/14844_0aeb51ba/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第7集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第7集
 https://vip.ffzyread1.com/20230706/14894_eb8bcedd/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第8集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第8集
 https://vip.ffzyread1.com/20230706/14893_e3ab8026/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第9集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第9集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第09集/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第10集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第10集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第10集/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第11集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第11集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第11集/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第12集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第12集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第12集/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第13集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第13集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第13集/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第14集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第14集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第14集/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第15集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第15集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第15集/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第16集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第16集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第16集/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第17集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第17集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第17集/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第18集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第18集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第18集/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第19集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第19集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第19集/index.m3u8
-#EXTINF:-1 group-title="我的人间烟火",第20集
+#EXTINF:-1 group-title="結愛·千歲大人的初戀",第20集
 https://s6.bfzycdn.com/video/woderenjianyanhuo/第20集/index.m3u8
 
 
