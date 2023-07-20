@@ -6,6 +6,7 @@
 东森超视,rtmp://218.32.29.20/sat/tv331
 TVBS欢东台,rtmp://218.32.29.20/sat/tv421
 东森财经新闻,rtmp://218.32.29.20/sat/tv571
+天才冲冲冲,http://www.hualong.cf:35455/youtube/ygUP5aSp5omN5Yay5Yay5Yay
 
 
 中天新闻,http://www.hualong.cf:35455/youtube/oIgbl7t0S_w
