@@ -36,7 +36,7 @@ TVBS HD,http://www.hualong.cf:35455/youtube/YvdcZ_jpLXE?quality=480
 結愛·千歲大人的初戀,#genre#
 第1集,https://vip.lz-cdn.com/20220608/17582_d6949eeb/index.m3u8
 第2集,https://vip.lz-cdn.com/share/821908af0ae3251a195e057f06bd9e64
-第3集,https://s.xlzys.com/play/mep6GKrb/index.m3u8
+第3集,https://s7.fsvod1.com/20220923/xbO7JeV2/index.m3u8
 第4集,https://s.xlzys.com/play/PdyOROwa/index.m3u8
 第5集,https://s.xlzys.com/play/lejVyMWe/index.m3u8
 第6集,https://s.xlzys.com/play/mep6GK1b/index.m3u8
