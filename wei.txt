@@ -13,6 +13,9 @@ TVBS欢东台,rtmp://218.32.29.20/sat/tv421
 
 11,http://66.181.39.224/ml.php?id=tvbs
 22,http://66.181.39.224/ml.php?id=ctinews
+三⽴都会台,http://66.181.39.224/ml.php?id=sanlidouhui_twn
+
+
 
 中天新闻,http://www.hualong.cf:35455/youtube/oIgbl7t0S_w?quality=720
 中天新闻,http://www.hualong.cf:35455/youtube/oIgbl7t0S_w?quality=480
