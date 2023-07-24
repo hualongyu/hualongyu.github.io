@@ -14,8 +14,8 @@ TVBS欢东台,rtmp://218.32.29.20/sat/tv421
 11,http://66.181.39.224/ml.php?id=tvbs
 22,http://66.181.39.224/ml.php?id=ctinews
 三⽴都会台,http://66.181.39.224/ml.php?id=sanlidouhui_twn
-
-
+ZT1,https://www.youtube.com/embed/oIgbl7t0S_w?autoplay=0&controls=0&disablekb=1&playsinline=1&cc_load_policy=0&cc_lang_pref=auto&widget_referrer=https%3A%2F%2Fctinews.com%2Flive&rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&customControls=true&noCookie=false&enablejsapi=1&origin=https%3A%2F%2Fctinews.com&widgetid=4
+Zt2,https://ctinews.com/live
 
 中天新闻,http://www.hualong.cf:35455/youtube/oIgbl7t0S_w?quality=720
 中天新闻,http://www.hualong.cf:35455/youtube/oIgbl7t0S_w?quality=480
