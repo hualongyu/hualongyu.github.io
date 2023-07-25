@@ -16,7 +16,7 @@ PL9,https://php.hualonghualong.tk/api/sxg.php
 
 
 
-PL4,http://www.hualong.cf:35455/api/itouch.php?id=2450
+PL4,https://php.hualonghualong.tk/api/itouch.php?id=2450
 PL5,http://www.hualong.cf:35455/itouch.php?id=2450
 66,http://www.hualong.cf:5678/sxg.php
 77,http://www.hualong.cf:5678/sxg.php?id=test2_4000
