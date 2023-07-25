@@ -14,7 +14,7 @@ TVBS欢东台,rtmp://218.32.29.20/sat/tv421
 PL8,https://php.hualonghualong.tk/api/gudou.php?id=1350_4500
 PL9,https://php.hualonghualong.tk/api/sxg.php
 
-
+55,https://php.hualonghualong.tk/api/bestv.php?id=cctv15hd8m/8000000
 
 PL4,https://php.hualonghualong.tk/api/itouch.php?id=2450
 PL5,http://www.hualong.cf:35455/itouch.php?id=2450
