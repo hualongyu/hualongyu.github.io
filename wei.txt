@@ -12,6 +12,10 @@ TVBS欢东台,rtmp://218.32.29.20/sat/tv421
 天才冲冲冲,http://www.hualong.cf:35455/youtube/CCQ2ltDkhvY?quality=480
 
 PL8,https://php.hualonghualong.tk/api/gudou.php?id=1350_4500
+PL9,https://php.hualonghualong.tk/api/sxg.php
+
+
+
 PL4,http://www.hualong.cf:35455/api/itouch.php?id=2450
 PL5,http://www.hualong.cf:35455/itouch.php?id=2450
 66,http://www.hualong.cf:5678/sxg.php
