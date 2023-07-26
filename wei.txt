@@ -9,12 +9,12 @@ TVBS欢东台,rtmp://218.32.29.20/sat/tv421
 台視,rtmp://218.32.29.20/sat/tv071
 中視,rtmp://218.32.29.20/sat/tv091
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-ELEVEN2,rtmp://59.124.75.138/sat/md021
-ELTA體育3,rtmp://59.124.75.138/sat/md041
-ELTA體育1,rtmp://59.124.75.138/sat/md051
+ELEVEN2,rtmp://218.32.29.20/sat/md021
+ELTA體育3,rtmp://218.32.29.20/sat/md041
+ELTA體育1,rtmp://218.32.29.20/sat/md051
 
 天才冲冲冲,http://www.hualong.cf:35455/youtube/9DMV6Twhz7k?quality=720
-天才冲冲冲,http://www.hualong.cf:35455/youtube/9DMV6Twhz7k
+天才冲冲冲2,https://php.hualonghualong.tk/api/youtube/9DMV6Twhz7k
 78,https://webadmin.boydgaming.net/ml.php?6752X17XTX0X0XTEST
 88,http://www.runehead.com/clans/ml.php?clan=agonyrs
 
