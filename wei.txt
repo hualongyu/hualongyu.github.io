@@ -27,8 +27,8 @@ V6-5,https://php.hualonghualong.tk/api/sxg.php?id=CCTV-13H265_4000
 bestv1,https://php.hualonghualong.tk/api/bestv.php?id=cctv15hd8m/8000000
 bestv2,https://live.hualonghualong.tk/api/bestv.php?id=cctv15hd8m/8000000
 LIVE-gudou,https://live.hualonghualong.tk/api/gudou.php?id=1350_4500
-LIVE-gudou-RP,https://live.hualonghualong.tk/api/gudou.php?id=raopingtaiHD_4500
-LIVE-ITOUCH,https://live.hualonghualong.tk/api/itouch.php?id=2450
+LIVE-gudou-RP,https://https://live.goodiptv.club/api/gudou.php?id=raopingtaiHD_4500
+LIVE-ITOUCH,https://https://live.goodiptv.club/api/itouch.php?id=2450
 LIVE-ZT,https://live.hualonghualong.tk/api/youtube/oIgbl7t0S_w?quality=720
 
 PL4,https://php.hualonghualong.tk/api/itouch.php?id=2450
