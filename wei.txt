@@ -34,8 +34,19 @@ LIVE-ZT,https://live.goodiptv.club/api/youtube/oIgbl7t0S_w?quality=720
 yu-gudou-rp,https://php.hualonghualong.tk/api/gudou.php?id=raopingtaiHD_4500
 
 yu-gudou,http://www.hualong.cf:5678/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=CCTV13HD_1500
-
 yu-gudou2,http://php.hualonghualong.tk/api/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=CCTV3HD_1500
+yu-gudou3,http://www.hualong.cf:5678/gudou.php?phone=13389247903&ptoken=dcCK3zfyKEFSl1f4l9RIlQ%3D%3D&pserialnumber=22702bd68a70cb12&cid=38&id=1613
+yu-gudou4,http://www.hualong.cf:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=CCTV-15HD_7500
+yu-gudou5,http://www.hualong.cf:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV-15HD_7500
+yu-gudou6,http://www.hualong.cf:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=CCTV-15HD_7500
+yu-gudou7,http://www.hualong.cf:5678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
+yu-gudou8,http://www.hualong.cf:5678/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meizhou2HD_4500
+yu-gudou9,http://www.hualong.cf:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=CCTV-15HD_7500
+yu-gudou10,http://www.hualong.cf:5678/gudou.php?phone=18301053185&ptoken=ITN8%2FMBY8rXlGJUI%2Fu7stg%3D%3D&pserialnumber=37edb2a406835fae&cid=364&id=1350_4500
+yu-gudou11,http://www.hualong.cf:5678/gudou.php?phone=18520035824&ptoken=kqqBvdT9jKGhG9vnfbbcew%3D%3D&pserialnumber=64d396617385853f&cid=300&id=1613
+
+
+
 
 PL4,https://php.hualonghualong.tk/api/itouch.php?id=2450
 PL5,http://www.hualong.cf:35455/itouch.php?id=2450
