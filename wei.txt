@@ -19,9 +19,10 @@ ELTA體育1,rtmp://218.32.29.20/sat/md051
 88,http://www.runehead.com/clans/ml.php?clan=agonyrs
 
 PL8,https://php.hualonghualong.tk/api/gudou.php?id=1350_4500
-PL9,https://php.hualonghualong.tk/api/sxg.php
-h7,https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
-55,https://php.hualonghualong.tk/api/bestv.php?id=cctv15hd8m/8000000
+V6-1,http://www.hualong.cf:5678/sxg.php
+V6-2,https://php.hualonghualong.tk/api/sxg.php
+V6-3,https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
+V6-4,https://php.hualonghualong.tk/api/bestv.php?id=cctv15hd8m/8000000
 
 PL4,https://php.hualonghualong.tk/api/itouch.php?id=2450
 PL5,http://www.hualong.cf:35455/itouch.php?id=2450
