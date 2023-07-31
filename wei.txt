@@ -29,7 +29,7 @@ bestv2,https://live.hualonghualong.tk/api/bestv.php?id=cctv15hd8m/8000000
 LIVE-gudou,https://live.hualonghualong.tk/api/gudou.php?id=1350_4500
 LIVE-gudou-RP,https://live.goodiptv.club/api/gudou.php?id=raopingtaiHD_4500
 LIVE-ITOUCH,https://live.goodiptv.club/api/itouch.php?id=2450
-LIVE-ITOUCH,https://live.goodiptv.club/api/itouch.php?id=1183
+LIVE-ITOUCH2,https://live.goodiptv.club/api/itouch.php?id=1183
 LIVE-ZT,https://live.goodiptv.club/api/youtube/oIgbl7t0S_w?quality=720
 yu-gudou-rp,https://php.hualonghualong.tk/api/gudou.php?id=raopingtaiHD_4500
 
