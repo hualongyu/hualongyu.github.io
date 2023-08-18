@@ -15,6 +15,17 @@ ELTA體育1,rtmp://218.32.29.20/sat/md051
 
 天才冲冲冲,http://www.hualong.cf:35455/youtube/wQrIfiFioBc?quality=720
 天才冲冲冲2,https://php.hualonghualong.tk/api/youtube/wQrIfiFioBc
+
+中天新闻11,https://darlin8855.vercel.app/live/youtube/oIgbl7t0S_w
+中天新闻12,http://10.0.0.2:35455/youtube/oIgbl7t0S_w
+TVBS 55頻道,https://golang.61073736.repl.co/youtube/2mCSYvcfhtc
+中天新闻13,https://golang.61073736.repl.co/youtube/oIgbl7t0S_w
+中天新闻14,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新闻15,http://youtube.jacklam9.repl.co/youtube/oIgbl7t0S_w?quality=1080
+
+
+
+
 78,https://webadmin.boydgaming.net/ml.php?6752X17XTX0X0XTEST
 88,http://www.runehead.com/clans/ml.php?clan=agonyrs
 
@@ -56,24 +67,8 @@ PL5,http://www.hualong.cf:35455/itouch.php?id=2450
 
 11,http://66.181.39.224/ml.php?id=tvbs
 22,http://66.181.39.224/ml.php?id=ctinews
-三⽴都会台,http://66.181.39.224/ml.php?id=sanlidouhui_twn
-東森电影台[1920*1080],http://66.181.39.224/ml.php?id=ettvmovie
-东森综合台[1920*1080],http://66.181.39.224/ml.php?id=ettvzhonghe
-卫视中文台[1920*1080],http://66.181.39.224/ml.php?id=weishichinese_twn
-美亚电影台[1280*720],http://66.181.39.224/ml.php?id=meiyamovie_twn
-凤凰中文[1920*1080],http://66.181.39.224/ml.php?id=phoenixtv_hd
-凤凰资讯[1280*720],http://66.181.39.224/ml.php?id=phoenixinfo_hd
-星衛電影[1280*720],http://66.181.39.224/ml.php?id=xingwei_movie
-动物星球[1920*1080],http://66.181.39.224/ml.php?id=animalplanet_twn
-探索频道[1920*1080],http://66.181.39.224/ml.php?id=ba86fcd935
-探索频道[1920*1080],http://66.181.39.224/ml.php?id=discoveryhd_twn
-探索亚洲[1280*720],http://66.181.39.224/ml.php?id=discoverytwn_twn
-中天新闻[1280*720],http://66.181.39.224/ml.php?id=ctinews
-纬来日本[1920*1080],http://66.181.39.224/ml.php?id=videolandjapan
-纬来电影[1920*1080],http://66.181.39.224/ml.php?id=videolandmovie
-東森戏剧[1920*1080],http://66.181.39.224/ml.php?id=ettvdrama
-东森洋片[1920*1080],http://66.181.39.224/ml.php?id=ettvwestern
-爱尔达体育3台[1280*720],http://66.181.39.224/ml.php?id=eltasport3_twn
+
+
 
 ZT1,https://www.youtube.com/embed/oIgbl7t0S_w?autoplay=0&controls=0&disablekb=1&playsinline=1&cc_load_policy=0&cc_lang_pref=auto&widget_referrer=https%3A%2F%2Fctinews.com%2Flive&rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&customControls=true&noCookie=false&enablejsapi=1&origin=https%3A%2F%2Fctinews.com&widgetid=4
 Zt2,https://ctinews.com/live
