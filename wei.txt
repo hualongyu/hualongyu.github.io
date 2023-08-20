@@ -17,6 +17,8 @@ ELTA體育1,rtmp://218.32.29.20/sat/md051
 天才冲冲冲2,https://php.hualonghualong.tk/api/youtube/wQrIfiFioBc
 
 中天新闻11,https://darlin8855.vercel.app/live/youtube/oIgbl7t0S_w
+中天,https://ytm2.yuanhsing.cf/ctitv.m3u8
+
 中天新闻12,http://10.0.0.2:35455/youtube/oIgbl7t0S_w
 TVBS 55頻道,https://golang.61073736.repl.co/youtube/2mCSYvcfhtc
 中天新闻13,https://golang.61073736.repl.co/youtube/oIgbl7t0S_w
