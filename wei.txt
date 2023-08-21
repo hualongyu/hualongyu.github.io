@@ -16,14 +16,14 @@ ELTA體育1,rtmp://218.32.29.20/sat/md051
 天才冲冲冲,http://www.hualong.cf:35455/youtube/wQrIfiFioBc?quality=720
 天才冲冲冲2,https://php.hualonghualong.tk/api/youtube/wQrIfiFioBc
 
-中天新闻11,https://darlin8855.vercel.app/live/youtube/oIgbl7t0S_w
+中天新闻11,https://darlin8855.vercel.app/live/youtube/oIgbl7t0S_w?quality=720
 中天,https://ytm2.yuanhsing.cf/ctitv.m3u8
 
-中天新闻12,http://10.0.0.2:35455/youtube/oIgbl7t0S_w
-TVBS 55頻道,https://golang.61073736.repl.co/youtube/2mCSYvcfhtc
-中天新闻13,https://golang.61073736.repl.co/youtube/oIgbl7t0S_w
+中天新闻12,http://10.0.0.2:35455/youtube/oIgbl7t0S_w?quality=720
+TVBS 55頻道,https://golang.61073736.repl.co/youtube/2mCSYvcfhtc?quality=720
+中天新闻13,https://golang.61073736.repl.co/youtube/oIgbl7t0S_w?quality=720
 中天新闻14,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-中天新闻15,http://youtube.jacklam9.repl.co/youtube/oIgbl7t0S_w?quality=1080
+中天新闻15,http://youtube.jacklam9.repl.co/youtube/oIgbl7t0S_w?quality=720
 
 
 
@@ -32,14 +32,11 @@ TVBS 55頻道,https://golang.61073736.repl.co/youtube/2mCSYvcfhtc
 88,http://www.runehead.com/clans/ml.php?clan=agonyrs
 
 PL8,https://php.hualonghualong.tk/api/gudou.php?id=1350_4500
-V6-1,http://www.hualong.cf:5678/sxg.php
-V6-2,c/api/sxg.php
-V6-3,https://live.hualonghualong.tk/api/sxg.php?id=CCTV-1H265_4000
-V6-4,https://live.hualonghualong.tk/api/sxg.php?id=CCTV-13H265_4000
-V6-5,https://php.hualonghualong.tk/api/sxg.php?id=CCTV-13H265_4000
+
 bestv1,https://php.hualonghualong.tk/api/bestv.php?id=cctv15hd8m/8000000
 bestv2,https://live.hualonghualong.tk/api/bestv.php?id=cctv15hd8m/8000000
 LIVE-gudou,https://live.hualonghualong.tk/api/gudou.php?id=1350_4500
+LIVE-gudou-rp,https://live.hualonghualong.tk/api/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=raopingtaiHD_4500
 LIVE-gudou-RP,https://live.goodiptv.club/api/gudou.php?id=raopingtaiHD_4500
 LIVE-ITOUCH,https://live.goodiptv.club/api/itouch.php?id=2450
 LIVE-ITOUCH2,https://live.goodiptv.club/api/itouch.php?id=1183
