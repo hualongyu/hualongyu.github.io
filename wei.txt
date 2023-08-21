@@ -5,6 +5,7 @@
 纬来育乐,rtmp://218.32.29.20/sat/tv701
 东森超视,rtmp://218.32.29.20/sat/tv331
 TVBS欢东台,rtmp://218.32.29.20/sat/tv421
+TVBS新闻台,rtmp://218.32.29.20/sat/tv551
 东森财经新闻,rtmp://218.32.29.20/sat/tv571
 台視,rtmp://218.32.29.20/sat/tv071
 中視,rtmp://218.32.29.20/sat/tv091
@@ -17,13 +18,11 @@ ELTA體育1,rtmp://218.32.29.20/sat/md051
 天才冲冲冲2,https://php.hualonghualong.tk/api/youtube/wQrIfiFioBc
 
 中天新闻11,https://darlin8855.vercel.app/live/youtube/oIgbl7t0S_w?quality=720
-中天,https://ytm2.yuanhsing.cf/ctitv.m3u8
-
-中天新闻12,http://10.0.0.2:35455/youtube/oIgbl7t0S_w?quality=720
-TVBS 55頻道,https://golang.61073736.repl.co/youtube/2mCSYvcfhtc?quality=720
-中天新闻13,https://golang.61073736.repl.co/youtube/oIgbl7t0S_w?quality=720
-中天新闻14,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-中天新闻15,http://youtube.jacklam9.repl.co/youtube/oIgbl7t0S_w?quality=720
+中天新闻12,https://darlin8855.vercel.app/live/youtube/oIgbl7t0S_w?quality=480
+TVBS新闻,https://darlin8855.vercel.app/live/youtube/2mCSYvcfhtc?quality=720
+TVBS 56,https://darlin8855.vercel.app/live/youtube/YvdcZ_jpLXE?quality=720
+东森新闻2,https://darlin8855.vercel.app/live/youtube/S5WOGu2HSes?quality=720
+东森财经新闻2,https://darlin8855.vercel.app/live/youtube/LbS-xQ67fos?quality=720
 
 
 
