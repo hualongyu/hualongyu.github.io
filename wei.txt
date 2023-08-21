@@ -43,6 +43,8 @@ LIVE-ZT,https://live.goodiptv.club/api/youtube/oIgbl7t0S_w?quality=720
 yu-gudou-rp,https://php.hualonghualong.tk/api/gudou.php?id=raopingtaiHD_4500
 yu-gudou-rp2,http://php.hualong.cf:5678/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=raopingtaiHD_4500
 
+yu-gudou111,http://www.hualong.cf:5678/gudou.php?id=CCTV13HD_1500
+
 yu-gudou,http://www.hualong.cf:5678/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=CCTV13HD_1500
 yu-gudou2,http://php.hualonghualong.tk/api/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=CCTV3HD_1500
 yu-gudou3,http://www.hualong.cf:5678/gudou.php?phone=13389247903&ptoken=dcCK3zfyKEFSl1f4l9RIlQ%3D%3D&pserialnumber=22702bd68a70cb12&cid=38&id=1613
