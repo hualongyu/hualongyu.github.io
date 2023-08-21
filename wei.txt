@@ -42,7 +42,8 @@ LIVE-ITOUCH2,https://live.goodiptv.club/api/itouch.php?id=1183
 LIVE-ZT,https://live.goodiptv.club/api/youtube/oIgbl7t0S_w?quality=720
 yu-gudou-rp,https://php.hualonghualong.tk/api/gudou.php?id=raopingtaiHD_4500
 yu-gudou-rp2,http://php.hualong.cf:5678/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=raopingtaiHD_4500
-
+yu-gudou-p,http://php.hualong.cf:5678/gudou-playseek.php?id=CCTV13HD_1500
+yu-gudou-p2,http://www.hualong.cf:5678/gudou-playseek.php?id=CCTV13HD_1500
 yu-gudou113,http://php.hualong.cf:5678/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=CCTV13HD_1500
 
 yu-gudou,http://php.hualong.cf:5678/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=CCTV13HD_1500
