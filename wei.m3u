@@ -1,5 +1,9 @@
 #EXTINF:-1 group-title="电视台",华视
 rtmp://218.32.29.20/sat/tv111
+#EXTINF:-1 group-title="电视台",TVBS新闻台
+rtmp://218.32.29.20/sat/tv551
+#EXTINF:-1 group-title="电视台",东森财经新闻
+rtmp://218.32.29.20/sat/tv571
 #EXTINF:-1 group-title="电视台",纬来日本
 rtmp://218.32.29.20/sat/tv771
 #EXTINF:-1 group-title="电视台",纬来体育
