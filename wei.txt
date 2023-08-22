@@ -27,7 +27,7 @@ TVBS 56,https://darlin8855.vercel.app/live/youtube/YvdcZ_jpLXE?quality=720
 
 221,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czggpd?sign=081f8e3b9dce90511887776bd7c9d23a&t=64e4a0e5
 331,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czzhpd?sign=081f8e3b9dce90511887776bd7c9d23a&t=64e4a0e5&Authorization=d0e987da2e70232bd9660650f76c159a_16927
-332,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czzhpd?sign=081f8e3b9dce90511887776bd7c9d23a&t=64e4a0e5
+332,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czzhpd?sign=2ba3daaf52719d0a7a6f58a787b727b0&t=64e4a431
 44,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=fa4dca910bfd560fd8f55df7f511f93d&t=66c5991c
 55,rtmp://rtmp-stjy.sobeylive.com/stjy2020/ggpd?sign=bd69dae297e6f78a0123bc5d484a8228&t=66c5991c
 
