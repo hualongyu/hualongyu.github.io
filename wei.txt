@@ -151,5 +151,7 @@ TVBS HD,http://www.hualong.cf:35455/youtube/YvdcZ_jpLXE?quality=480
 第19集,https://s6.bfzycdn.com/video/woderenjianyanhuo/第19集/index.m3u8
 第20集,https://s6.bfzycdn.com/video/woderenjianyanhuo/第20集/index.m3u8
 
+电影,#genre#
+乐迪加速,https://s.xlzys.com/play/1aKRjPne/index.m3u8
 
 
