@@ -25,8 +25,8 @@ TVBS 56,https://darlin8855.vercel.app/live/youtube/YvdcZ_jpLXE?quality=720
 东森新闻2,https://darlin8855.vercel.app/live/youtube/S5WOGu2HSes?quality=720
 东森财经新闻2,https://darlin8855.vercel.app/live/youtube/LbS-xQ67fos?quality=720
 
-22,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czggpd?sign=d59580795a1b625e75f0fe4eef5c8d2b&t=66c5991c
-33,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czzhpd?sign=44227168498eb4ed27567ee5b6ba2230&t=66c5991c
+22,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czggpd?sign=081f8e3b9dce90511887776bd7c9d23a&t=64e4a0e5
+33,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czzhpd?sign=081f8e3b9dce90511887776bd7c9d23a&t=64e4a0e5&Authorization=d0e987da2e70232bd9660650f76c159a_16927
 44,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=fa4dca910bfd560fd8f55df7f511f93d&t=66c5991c
 55,rtmp://rtmp-stjy.sobeylive.com/stjy2020/ggpd?sign=bd69dae297e6f78a0123bc5d484a8228&t=66c5991c
 
