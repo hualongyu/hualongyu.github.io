@@ -27,6 +27,8 @@ TVBS 56,https://darlin8855.vercel.app/live/youtube/YvdcZ_jpLXE?quality=720
 
 2211,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czzhpd?sign=0e885dd3b0e8383c76c9787fb577a1ca&t=64e62c71&Authorization=93aa1d02589236a62e10f7ff9102242e_16928
 
+潮州综合,http://live-czbtv-gb.sobeylive.com/czbtv2019/czzhpd.flv
+
 331,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czzhpd?sign=081f8e3b9dce90511887776bd7c9d23a&t=64e4a0e5&Authorization=d0e987da2e70232bd9660650f76c159a_16927
 332,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czzhpd?sign=2ba3daaf52719d0a7a6f58a787b727b0&t=64e4a431
 44,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=fa4dca910bfd560fd8f55df7f511f93d&t=66c5991c
