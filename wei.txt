@@ -25,96 +25,19 @@ TVBS 56,https://darlin8855.vercel.app/live/youtube/YvdcZ_jpLXE?quality=720
 东森新闻2,https://darlin8855.vercel.app/live/youtube/S5WOGu2HSes?quality=720
 东森财经新闻2,https://darlin8855.vercel.app/live/youtube/LbS-xQ67fos?quality=720
 
-2211,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czzhpd?sign=0e885dd3b0e8383c76c9787fb577a1ca&t=64e62c71&Authorization=93aa1d02589236a62e10f7ff9102242e_16928
-
-潮州综合,http://live-czbtv-gb.sobeylive.com/czbtv2019/czzhpd.flv
-
-331,rtmp://live-rtmp-czbtv.sobeylive.com/czbtv2019/czzhpd?sign=081f8e3b9dce90511887776bd7c9d23a&t=64e4a0e5&Authorization=d0e987da2e70232bd9660650f76c159a_16927
-332,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd?sign=2ba3daaf52719d0a7a6f58a787b727b0&t=64e4a431
-44,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=fa4dca910bfd560fd8f55df7f511f93d&t=66c5991c
-55,rtmp://rtmp-stjy.sobeylive.com/stjy2020/ggpd?sign=bd69dae297e6f78a0123bc5d484a8228&t=66c5991c
 
 
 
 
-78,https://webadmin.boydgaming.net/ml.php?6752X17XTX0X0XTEST
-88,http://www.runehead.com/clans/ml.php?clan=agonyrs
-
-PL8,https://api.hualonghualong.tk/api/gudou.php?id=1350_4500
-
-bestv1,https://api.hualonghualong.tk/api/bestv.php?id=cctv15hd8m/8000000
-bestv2,http://php.hualong.cf:5678/bestv.php?id=cctv15hd8m/8000000
-LIVE-gudou,https://live.hualonghualong.tk/api/gudou.php?id=1350_4500
-LIVE-gudou-rp,https://live.hualonghualong.tk/api/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=raopingtaiHD_4500
-LIVE-gudou-RP,https://live.goodiptv.club/api/gudou.php?id=raopingtaiHD_4500
-LIVE-ITOUCH,https://live.goodiptv.club/api/itouch.php?id=2450
-LIVE-ITOUCH2,https://live.goodiptv.club/api/itouch.php?id=1183
-LIVE-ZT,https://live.goodiptv.club/api/youtube/oIgbl7t0S_w?quality=720
-yu-gudou-rp,https://php.hualonghualong.tk/api/gudou.php?id=raopingtaiHD_4500
-yu-gudou-rp2,http://php.hualong.cf:5678/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=raopingtaiHD_4500
-yu-gudou-ca,http://php.hualong.cf:5678/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=chaoanzongheHD_4500
-yu-gudou-cz,http://php.hualong.cf:5678/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=3131_4500
-
-yu-gudou-p,http://php.hualong.cf:5678/gudou-playseek.php?id=CCTV13HD_1500
-yu-gudou-p2,http://www.hualong.cf:5678/gudou-playseek.php?id=CCTV13HD_1500
-yu-gudou-p3,http://www.hualong.cf:5678/gudou-playseek.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=raopingtaiHD_4500
-yu-gudou113,http://php.hualong.cf:5678/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=CCTV13HD_1500
-
-
-yu-gudou,http://php.hualong.cf:5678/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=CCTV13HD_1500
-yu-gudou2,http://api.hualonghualong.tk/api/gudou.php?phone=freeuser&ptoken=A5ZjU2OThiNjAxMzExMTBkN&pserialnumber=b60131110d72d53&cid=1332&id=CCTV3HD_1500
-yu-gudou3,http://www.hualong.cf:5678/gudou.php?phone=13389247903&ptoken=dcCK3zfyKEFSl1f4l9RIlQ%3D%3D&pserialnumber=22702bd68a70cb12&cid=38&id=1613
-yu-gudou4,http://www.hualong.cf:5678/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=CCTV-15HD_7500
-yu-gudou5,http://www.hualong.cf:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=CCTV-15HD_7500
-yu-gudou6,http://www.hualong.cf:5678/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=CCTV-15HD_7500
-yu-gudou7,http://www.hualong.cf:5678/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
-yu-gudou8,http://www.hualong.cf:5678/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=meizhou2HD_4500
-yu-gudou9,http://php.hualong.cf:5678/gudou.php?phone=18021031985&ptoken=wVRSB5sT4uZUUEAhmMSj2g%3D%3D&pserialnumber=97d79fee56a4a097&cid=364&id=CCTV-15HD_7500
-yu-gudou10,http://php.hualong.cf:5678/gudou.php?phone=18301053185&ptoken=ITN8%2FMBY8rXlGJUI%2Fu7stg%3D%3D&pserialnumber=37edb2a406835fae&cid=364&id=1350_4500
-yu-gudou11,http://php.hualong.cf:5678/gudou.php?phone=18520035824&ptoken=kqqBvdT9jKGhG9vnfbbcew%3D%3D&pserialnumber=64d396617385853f&cid=300&id=1613
 
 
 
 
-PL4,https://api.hualonghualong.tk/api/itouch.php?id=2450
-PL5,http://www.hualong.cf:35455/itouch.php?id=2450
-66,http://www.hualong.cf:5678/sxg.php
-77,http://www.hualong.cf:5678/sxg.php?id=test2_4000
-
-11,http://66.181.39.224/ml.php?id=tvbs
-22,http://66.181.39.224/ml.php?id=ctinews
 
 
 
-ZT1,https://www.youtube.com/embed/oIgbl7t0S_w?autoplay=0&controls=0&disablekb=1&playsinline=1&cc_load_policy=0&cc_lang_pref=auto&widget_referrer=https%3A%2F%2Fctinews.com%2Flive&rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&customControls=true&noCookie=false&enablejsapi=1&origin=https%3A%2F%2Fctinews.com&widgetid=4
-Zt2,https://ctinews.com/live
-
-中天新闻,https://api.hualonghualong.tk/api/youtube/oIgbl7t0S_w?quality=720
-中天新闻2,https://api.hualonghualong.tk/api/youtube/oIgbl7t0S_w
-中天新闻,http://www.hualong.cf:35455/youtube/oIgbl7t0S_w?quality=480
-TVBS HD,http://www.hualong.cf:35455/youtube/YvdcZ_jpLXE?quality=720
-TVBS HD,http://www.hualong.cf:35455/youtube/YvdcZ_jpLXE?quality=480
-
-东森新闻,http://www.hualong.cf:35455/youtube/S5WOGu2HSes?quality=720
-东森新闻,http://www.hualong.cf:35455/youtube/S5WOGu2HSes?quality=480
 
 
-小新直播,http://www.hualong.cf:35455/douyu/8752108
-小夜,http://www.hualong.cf:35455/douyin?url=https://v.douyin.com/i4AVdCd
-
-测试6,http://www.hualong.cf:5678/gudou.php?id=1350_4500
-测试7DU,http://www.hualong.cf:35455/douyu/9249162
-测试8DU,http://www.hualong.cf:35455/douyu/8752108
-
-测试9,http://www.hualong.cf:35455/youtube/oIgbl7t0S_w
-测试10,http://www.hualong.cf:5678/youtube.go?id=oIgbl7t0S_w
-
-测试22,http://api.hualonghualong.tk/api/sxg.php?id=wqCHCdzdyH265_4000
-
-测试1,http://www.hualong.cf:5678/sxg.php
-测试2,http://www.hualong.cf:5678/sxg.php?id=CCTV-13H265_4000
-测试3,http://www.hualong.cf:5678/sxg.php?id=wqCHCdzdyH265_4000
-测试4,http://www.hualong.cf:5678/bestv.php?id=xgyy8m/8000000
 
 結愛·千歲大人的初戀,#genre#
 第1集,https://vip.lz-cdn.com/20220608/17582_d6949eeb/index.m3u8
