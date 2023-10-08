@@ -15,6 +15,7 @@ ELTA體育3,rtmp://218.32.29.20/sat/md041
 ELTA體育1,rtmp://218.32.29.20/sat/md051
 TVBS56,https://yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8
 TVBS55,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
+东森新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-750a5a51-68c3-4226-ac59-83f7c7bbd27c/index.m3u8?by=yeslivetv.com
 
 
 天才冲冲冲,http://www.hualong.cf:35455/youtube/wQrIfiFioBc?quality=720
