@@ -41,16 +41,20 @@ TVBS55,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee
 
 
 
-天才冲冲冲,http://www.hualong.cf:35455/youtube/oIgbl7t0S_w
+中天新闻,http://www.hualong.cf:35455/youtube/oIgbl7t0S_w
+
+中天新闻,http://www.hualong.cf:35455/youtube/
+
+中天新闻,http://www.hualong.cf:35455/youtube/
 
 天才冲冲冲2,https://api.hualonghualong.tk/api/youtube/wQrIfiFioBc
 
 中天新闻11,https://darlin8855.vercel.app/live/youtube/oIgbl7t0S_w?quality=720
 中天新闻12,https://darlin8855.vercel.app/live/youtube/oIgbl7t0S_w?quality=480
-TVBS新闻,https://darlin8855.vercel.app/live/youtube/2mCSYvcfhtc?quality=720
-TVBS 56,https://darlin8855.vercel.app/live/youtube/YvdcZ_jpLXE?quality=720
-东森新闻2,https://darlin8855.vercel.app/live/youtube/S5WOGu2HSes?quality=720
-东森财经新闻2,https://darlin8855.vercel.app/live/youtube/LbS-xQ67fos?quality=720
+TVBS新闻,http://www.hualong.cf:35455/youtube/2mCSYvcfhtc
+TVBS 56,http://www.hualong.cf:35455/youtube/YvdcZ_jpLXE
+东森新闻2,http://www.hualong.cf:35455/youtube/S5WOGu2HSes
+东森财经新闻2,http://www.hualong.cf:35455/youtube/LbS-xQ67fos
 
 
 
