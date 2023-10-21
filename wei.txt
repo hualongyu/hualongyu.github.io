@@ -31,7 +31,7 @@ TVBS55,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee
 
 纬来体育1,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5e7082d0-ad54-41a9-b8dc-4fadee445800/index.m3u8?by=yeslivetv.com
 
-
+八大综合,https://yeslivetv.com/twiptv/4gtv-4gtv039/index.m3u8
 
 龙华电影台,https://yeslivetv.com/twiptv/litv-longturn03/index.m3u8
 凤凰资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-120361b8-c34f-4aad-a920-2e39759c4efa/index.m3u8?by=yeslivetv.com
