@@ -15,7 +15,7 @@ ELTA體育3,rtmp://218.32.29.20/sat/md041
 ELTA體育1,rtmp://218.32.29.20/sat/md051
 TVBS56,https://yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8
 TVBS55,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
-东森新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-750a5a51-68c3-4226-ac59-83f7c7bbd27c/index.m3u8?by=yeslivetv.com
+东森新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-242788eb-7fe4-33e9-e123-7fd3a74e4fab/index.m3u8?by=yeslivetv.com
 华视2,https://yeslivetv.com/twiptv/4gtv-4gtv041/index.m3u8
 龙华电影台,https://yeslivetv.com/twiptv/litv-longturn03/index.m3u8
 凤凰资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3b92ffff-6a06-4bac-bd4d-ac609f549550.flv?by=yeslivetv.com
