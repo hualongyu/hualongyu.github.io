@@ -38,7 +38,7 @@ TVBS55,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee
 
 凤凰中文台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-2736a923-cc81-400f-9f47-6849c075757c/index.m3u8?by=yeslivetv.com
 
-
+珠江,http://www.hualong.cf:5678/itouch.php?id=gdzj
 
 
 中天新闻,http://www.hualong.cf:35455/youtube/oIgbl7t0S_w
