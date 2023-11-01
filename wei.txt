@@ -1,4 +1,16 @@
 电视台,#genre#
+
+TVBS561,https://yeslivetv.com/twiptv/hi2/vod/4gtv-4gtv073-avc1_400000=5-mp4a_138000_zho=7.m3u8?content=4gtv-4gtv073&md5=6cc2bd12d11a0ad0af327a002e17cc4e&expires=1700105548
+
+TVBS551,https://pull-f5-spe.ixigua.com/yeslivetv.com/787381558-877613977/index.m3u8?by=yeslivetv.com
+东森新闻1,https://pull-f5-spe.ixigua.com/yeslivetv.com/668896295-633829429/index.m3u8?by=yeslivetv.com
+
+华视1,https://yeslivetv.com/twiptv/hi2/vod/4gtv-4gtv041-avc1_6000000=1-mp4a_134000_zho=2.m3u8?content=4gtv-4gtv041&md5=bfc2a62ffc963d109e155fbc59beb386&expires=1700105608
+东森财经1,https://yeslivetv.com/twiptv/hi2/vod/4gtv-4gtv153-avc1_800000=4-mp4a_129000_zho=2.m3u8?content=4gtv-4gtv153&md5=5766754e3e8390e7ea710571d16c82e4&expires=1700105804
+
+凤凰资讯1,https://pull-f5-spe.ixigua.com/yeslivetv.com/871298795-633829429/index.m3u8?by=yeslivetv.com
+凤凰中文1,https://pull-f5-spe.ixigua.com/yeslivetv.com/7bf321da-a270-4fff-8ea4/index.m3u8?by=yeslivetv.com
+
 华视,rtmp://218.32.29.20/sat/tv111
 纬来日本,rtmp://218.32.29.20/sat/tv761
 纬来体育,rtmp://218.32.29.20/sat/tv721
@@ -13,24 +25,7 @@ TVBS新闻台,rtmp://218.32.29.20/sat/tv551
 ELEVEN2,rtmp://218.32.29.20/sat/md021
 ELTA體育3,rtmp://218.32.29.20/sat/md041
 ELTA體育1,rtmp://218.32.29.20/sat/md051
-TVBS56,https://yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8
-TVBS55,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
-凤凰资讯,https://pull-f5-spe.ixigua.com/yeslivetv.com/5b424e21-9171-4725-9a25-d28ba8a1f2ac/index.m3u8?by=yeslivetv.com
-凤凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/e8b571f2-16eb-482c-aa6c-8c8d7708504f/index.m3u8?by=yeslivetv.com
 
-CCTV-13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-CCTV-15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-
-
-东森新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-25be1c6c-e20f-b5fd-750b-34cc93a4cd39/index.m3u8?by=yeslivetv.com
-
-東森財經新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
-
-东森新闻3,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
-
-
-
-华视3,https://yeslivetv.com/twiptv/4gtv-4gtv041/index.m3u8
 
 
 纬来日本1,https://pull-f5-spe.ixigua.com/live/YesLiveTV-423d08e8-c281-4b75-bda7-42d261929b76/index.m3u8?by=yeslivetv.com
