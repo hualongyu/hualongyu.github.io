@@ -1,6 +1,11 @@
 电视台,#genre#
 
 121,http://www.namewee.xyz/gudou.php?id=364&id=CCTV-15HD_7500
+CCTV13,http://www.namewee.xyz/gudou.php?id=364&id=1613
+
+CA,http://www.namewee.xyz/gudou.php?id=364&id=chaoanzongheHD_4500
+
+RP,http://www.namewee.xyz/gudou.php?id=364&id=raopingtaiHD_4500
 
 TVBS561,https://yeslivetv.com/twiptv/hi2/vod/4gtv-4gtv073-avc1_400000=5-mp4a_138000_zho=7.m3u8?content=4gtv-4gtv073&md5=6cc2bd12d11a0ad0af327a002e17cc4e&expires=1700105548
 
