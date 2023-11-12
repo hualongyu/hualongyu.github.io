@@ -1,5 +1,7 @@
 电视台,#genre#
 
+华视,P2p://ns2.hellotvvod.com:9906/fd73b217be314cf198807cc5d1d911b6
+
 121,http://www.namewee.xyz/gudou.php?id=364&id=CCTV-15HD_7500
 CCTV13,http://www.namewee.xyz/gudou.php?id=364&id=1613
 
