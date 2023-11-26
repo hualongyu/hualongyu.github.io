@@ -332,6 +332,8 @@ https://s2.bfzycdn.com/video/yixiuhongxiangbian/第16集/index.m3u8
 #EXTINF:-1 tvg-logo="https://hualongyu.github.io/logo/yxhxb.jpg" group-title="衣袖紅鑲邊",第17集
 https://s2.bfzycdn.com/video/yixiuhongxiangbian/第17集/index.m3u8
 
+#EXTINF:-1  group-title="布鲁伊 第三季",第111集
+http://www.hualong.cf:5678/wei/01.ts
 #EXTINF:-1  group-title="布鲁伊 第三季",第1集
 http://www.hualong.cf:5678/wei/01.mp4
 #EXTINF:-1  group-title="布鲁伊 第三季",第2集
