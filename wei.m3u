@@ -509,6 +509,10 @@ http://www.hualong.cf:5678/wei/er/33.ts
 http://www.hualong.cf:5678/wei/er/34.ts
 #EXTINF:-1  group-title="布鲁伊 第二季",第35集
 http://www.hualong.cf:5678/wei/er/35.ts
+
+#EXTINF:-1  group-title="布鲁伊 第二季",第666集
+http://www.hualong.cf:5678/wei/er/36/index.m3u8
+
 #EXTINF:-1  group-title="布鲁伊 第二季",第36集
 http://www.hualong.cf:5678/wei/er/36.ts
 #EXTINF:-1  group-title="布鲁伊 第二季",第37集
