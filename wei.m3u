@@ -439,11 +439,11 @@ http://www.hualong.cf:5678/wei/yi/52.ts
 
 
 
-#EXTINF:-1  group-title="布鲁伊 第二季",第1集
+#EXTINF:-1  group-title="布鲁伊 第二季",第1集 Dance Mode.跳舞模式
 http://www.hualong.cf:5678/wei/er/01/index.m3u8
-#EXTINF:-1  group-title="布鲁伊 第二季",第2集
+#EXTINF:-1  group-title="布鲁伊 第二季",第2集 Hammerbarn仓储超市
 http://www.hualong.cf:5678/wei/er/02/index.m3u8
-#EXTINF:-1  group-title="布鲁伊 第二季",第3集
+#EXTINF:-1  group-title="布鲁伊 第二季",第3集 Featherwand羽毛魔杖
 http://www.hualong.cf:5678/wei/er/03/index.m3u8
 
 #EXTINF:-1  group-title="布鲁伊 第二季",第4集
@@ -511,7 +511,7 @@ http://www.hualong.cf:5678/wei/er/34.ts
 #EXTINF:-1  group-title="布鲁伊 第二季",第35集
 http://www.hualong.cf:5678/wei/er/35.ts
 
-#EXTINF:-1  group-title="布鲁伊 第二季",第666集
+#EXTINF:-1  group-title="布鲁伊 第二季",第666集 Postman邮递员
 http://www.hualong.cf:5678/wei/er/36/index.m3u8
 
 #EXTINF:-1  group-title="布鲁伊 第二季",第36集
