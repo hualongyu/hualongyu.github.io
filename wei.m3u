@@ -440,11 +440,12 @@ http://www.hualong.cf:5678/wei/yi/52.ts
 
 
 #EXTINF:-1  group-title="布鲁伊 第二季",第1集
-http://www.hualong.cf:5678/wei/er/01.ts
+http://www.hualong.cf:5678/wei/er/01/index.m3u8
 #EXTINF:-1  group-title="布鲁伊 第二季",第2集
-http://www.hualong.cf:5678/wei/er/02.ts
+http://www.hualong.cf:5678/wei/er/02/index.m3u8
 #EXTINF:-1  group-title="布鲁伊 第二季",第3集
-http://www.hualong.cf:5678/wei/er/03.ts
+http://www.hualong.cf:5678/wei/er/03/index.m3u8
+
 #EXTINF:-1  group-title="布鲁伊 第二季",第4集
 http://www.hualong.cf:5678/wei/er/04.ts
 #EXTINF:-1  group-title="布鲁伊 第二季",第5集
