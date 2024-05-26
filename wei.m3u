@@ -14,7 +14,10 @@ http://cf.hualong.eu.org:5678/Smartv.php?id=ctshd_twn
 http://cf.hualong.eu.org:35455/youtube/KMewXdOlWTY
 http://cf.hualong.eu.org:35455/youtube/KMewXdOlWTY?quality=720
 #EXTINF:-1 group-title="电视台",東森綜合
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=ebc-ettv
+#EXTINF:-1 group-title="电视台",東森綜合1
 http://888.iptv543.com/Smartv.php?id=ettvzhonghe
+
 http://cf.hualong.eu.org:5678/Smartv.php?id=ettvzhonghe
 #EXTINF:-1 group-title="电视台",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
