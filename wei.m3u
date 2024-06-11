@@ -18,6 +18,9 @@ http://cf.hualong.eu.org:35455/youtube/KMewXdOlWTY?quality=720
 https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=ebc-ettv
 #EXTINF:-1 group-title="电视台",東森綜合1
 http://cf.hualong.eu.org:5678/Smartv.php?id=ettvzhonghe
+#EXTINF:-1 group-title="电视台",東森綜合3
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvzhonghe
+
 #EXTINF:-1 group-title="电视台",纬来日本1
 http://cf.hualong.eu.org:5678/Smartv.php?id=videolandjapan
 #EXTINF:-1 group-title="电视台",纬来日本
