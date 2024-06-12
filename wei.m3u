@@ -11,21 +11,31 @@ rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 group-title="电视台",华视3
 http://888.iptv543.com/Smartv.php?id=ctshd_twn
 http://cf.hualong.eu.org:5678/Smartv.php?id=ctshd_twn
+#EXTINF:-1 group-title="电视台",华视4
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctshd_twn
 #EXTINF:-1 group-title="电视台",天才冲冲冲24H
 http://cf.hualong.eu.org:35455/youtube/6gWHSiLSR4k
 http://cf.hualong.eu.org:35455/youtube/KMewXdOlWTY?quality=720
 #EXTINF:-1 group-title="电视台",東森綜合
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=ebc-ettv
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvzhonghe
 #EXTINF:-1 group-title="电视台",東森綜合1
 http://cf.hualong.eu.org:5678/Smartv.php?id=ettvzhonghe
 #EXTINF:-1 group-title="电视台",東森綜合3
-https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvzhonghe
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=ebc-ettv
+
+
+
 
 #EXTINF:-1 group-title="电视台",纬来日本1
 http://cf.hualong.eu.org:5678/Smartv.php?id=videolandjapan
 #EXTINF:-1 group-title="电视台",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
 http://198.16.100.90:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+#EXTINF:-1 group-title="电视台",纬来日本2
+https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videolandjapan
+
+
+
 #EXTINF:-1 group-title="电视台",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
@@ -36,7 +46,7 @@ rtmp://218.32.29.20/sat/tv701
 http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 #EXTINF:-1 group-title="电视台",TVBS欢东台
 http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
-#EXTINF:-1,tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://epg.112114.xyz/logo/东森综合台.png" group-title="电视台",东森综合
+#EXTINF:-1,tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://epg.112114.xyz/logo/东森综合台.png" group-title="电视台",东森综合55
 http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 #EXTINF:-1,tvg-id="中天娛樂 HD" tvg-name="中天娛樂 HD" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" group-title="电视台",中天娛樂 HD
 http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
