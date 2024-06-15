@@ -13,6 +13,8 @@ http://888.iptv543.com/Smartv.php?id=ctshd_twn
 http://cf.hualong.eu.org:5678/Smartv.php?id=ctshd_twn
 #EXTINF:-1 group-title="电视台",华视5
 https://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv041
+#EXTINF:-1 group-title="电视台",华视6
+https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cts
 #EXTINF:-1 group-title="电视台",华视4
 https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctshd_twn
 #EXTINF:-1 group-title="电视台",天才冲冲冲24H
