@@ -4,6 +4,7 @@ http://cf.hualong.eu.org:5678/litv1.php?id=hshd
 #EXTINF:-1 group-title="电视台",华视41
 http://cf.hualong.eu.org:5678/Smartv.php?id=ctshd_twn
 #EXTINF:-1 group-title="电视台",华视
+http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
 http://cf.hualong.eu.org:5000/4gtv/6
 #EXTINF:-1 group-title="电视台",华视1
 rtmp://220.130.201.73/sat/tv111
