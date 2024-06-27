@@ -21,7 +21,8 @@ http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
 https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctshd_twn
 #EXTINF:-1 group-title="电视台",天才冲冲冲24H
 http://cf.hualong.eu.org:35455/youtube/cLMEH5lUZYA
-http://cf.hualong.eu.org:35455/youtube/KMewXdOlWTY?quality=720
+https://yt.hualong.eu.org/live?url=https://www.youtube.com/watch?v=cLMEH5lUZYA
+http://cf.hualong.eu.org:35455/youtube/cLMEH5lUZYA?quality=720
 #EXTINF:-1 group-title="电视台",東森綜合
 https://v9-douyin-cloudflare-cdn.sv6-douyin-cloudfare.cloudns.ch/Smartv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ettvzhonghe
 #EXTINF:-1 group-title="电视台",東森綜合1
