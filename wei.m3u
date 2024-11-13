@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="电视台",华视2
 http://cf.hualong.eu.org:5678/litv.php?id=hshd
+#EXTINF:-1 group-title="电视台",东森新闻
+http://cf.hualong.eu.org:5678/litv.php?id=dsxw
+
 #EXTINF:-1 group-title="电视台",华视41
 http://cf.hualong.eu.org:5678/Smartv.php?id=ctshd_twn
 #EXTINF:-1 group-title="电视台",华视
