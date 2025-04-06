@@ -93,6 +93,10 @@ http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&
 
 
 
+#EXTINF:-1 group-title="电影",#EXTINF:-1 group-title="电影",哪吒1
+http://1173805384.uttcare.com:5678/wei/哪吒之魔童降世.mp4
+
+
 
 #EXTINF:-1 group-title="电影",阿凡达2-水之道
 https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2023/0330/video/23956c8bb98f49feaf40592d38f7aa12_main.m3u8?auth_key=1680695377-b7b598a9b70640e0bb25285a2a29c702-0-22473001735c99c8d0ec57811a90ee34
