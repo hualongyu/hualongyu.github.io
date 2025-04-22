@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="电视台",华视2
+http://cf.hualong.eu.org:50007/4gtv-4gtv041/index.m3u8
+http://cf.hualong.eu.org:50007/4gtv-4gtv041/index.m3u8?proxy=true
 http://cf.hualong.eu.org:5678/litv.php?id=hshd
 #EXTINF:-1 group-title="电视台",东森新闻
+http://cf.hualong.eu.org:50007/4gtv-4gtv152/index.m3u8
+http://cf.hualong.eu.org:50007/4gtv-4gtv152/index.m3u8?proxy=true
 http://cf.hualong.eu.org:5678/litv.php?id=dsxw
 https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenxinwenETTVNews.html
 #EXTINF:-1 group-title="电视台",东森新闻2
@@ -12,6 +16,7 @@ https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenxinwenETTVNews.html
 #EXTINF:-1 group-title="电视台",东森新闻3
 http://cf.hualong.eu.org:5678/Smartv.php?id=ettvnews
 #EXTINF:-1 group-title="电视台",纬来体育
+http://1173805384.uttcare.com:5678/Smartv.php?id=videolandsport
 http://1173805384.uttcare.com:5678/superb.php?m3u8=/live/kwzq1rse/spvjqjn9/index.m3u8
 #EXTINF:-1 group-title="电视台",纬来体育2
 http://cf.hualong.eu.org:5678/Smartv.php?id=videolandsport
