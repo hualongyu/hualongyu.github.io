@@ -3,6 +3,9 @@
 rtmp://f13h.mine.nu/sat/tv111
 rtmp://220.130.201.73/sat/tv111
 
+#EXTINF:-1 group-title="电视台",华视2
+http://51.89.166.17:3002/index.php?id=ctshd_twn
+
 #EXTINF:-1 group-title="电视台",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
 
