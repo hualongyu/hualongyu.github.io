@@ -1,28 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="电视台",华视2
-http://cf.hualong.eu.org:5678/Smartv.php?id=ctshd_twn
-http://cf.hualong.eu.org:50007/4gtv-4gtv041/index.m3u8?proxy=true
-http://cf.hualong.eu.org:5678/litv.php?id=hshd
-
-#EXTINF:-1 group-title="电视台",东森新闻3
-http://cf.hualong.eu.org:5678/Smartv.php?id=ettvnews
-#EXTINF:-1 group-title="电视台",纬来体育
-http://1173805384.uttcare.com:5678/Smartv.php?id=videolandsport
-
-#EXTINF:-1 group-title="电视台",纬来体育2
-http://cf.hualong.eu.org:5678/Smartv.php?id=videolandsport
 #EXTINF:-1 group-title="电视台",华视1
 rtmp://f13h.mine.nu/sat/tv111
 rtmp://220.130.201.73/sat/tv111
-#EXTINF:-1 group-title="电视台",华视3
-http://cf.hualong.eu.org:5678/Smartv.php?id=ctshd_twn
 
-#EXTINF:-1 group-title="电视台",東森綜合1
-http://cf.hualong.eu.org:5678/Smartv.php?id=ettvzhonghe
-
-
-#EXTINF:-1 group-title="电视台",纬来日本1
-http://cf.hualong.eu.org:5678/Smartv.php?id=videolandjapan
 #EXTINF:-1 group-title="电视台",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
 
