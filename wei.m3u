@@ -8,11 +8,20 @@ rtmp://220.130.201.73/sat/tv111
 
 #EXTINF:-1 group-title="电视台",华视2
 http://51.89.166.17:3002/index.php?id=ctshd_twn
+https://tzh911.qzz.io/play-smt.php?id=ctshd_twn
+
+#EXTINF:-1 group-title="电视台",东森综合
+https://tzh911.qzz.io/play-smt.php?id=ettvzhonghe
+http://51.89.166.17:3002/index.php?id=ettvzhonghe
 
 #EXTINF:-1 group-title="电视台",纬来日本
+https://tzh911.qzz.io/play-smt.php?id=videolandjapan
+http://51.89.166.17:3002/index.php?id=videolandjapan
 rtmp://f13h.mine.nu/sat/tv771
 
 #EXTINF:-1 group-title="电视台",纬来体育
+https://tzh911.qzz.io/play-smt.php?id=videolandsport
+http://51.89.166.17:3002/index.php?id=videolandsport
 rtmp://f13h.mine.nu/sat/tv721
 
 #EXTINF:-1 group-title="电视台",纬来育乐
