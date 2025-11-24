@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="电视台",华视
+http://1173805384.uttcare.com:5678/litv.php?id=hshd2
+
 #EXTINF:-1 group-title="电视台",华视1
 rtmp://f13h.mine.nu/sat/tv111
 rtmp://220.130.201.73/sat/tv111
