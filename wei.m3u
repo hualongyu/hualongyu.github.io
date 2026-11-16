@@ -798,12 +798,18 @@ https://yys-valipl-vip.cp12.wasu.tv/69765F88A2B337169540A53CD/030006000062A9BA77
 
 
 
-#EXTINF:-1 group-title="20261004" ,第一場 Dolphins V.S. Falcons
-http://cf.hualong.eu.org:5678/Dolphins/20261004/20261004.m3u8
-#EXTINF:-1 group-title="20261018" ,第二場 Dolphins v.s. Bengles
-http://cf.hualong.eu.org:5678/Dolphins/20261018/20261018.m3u8
-#EXTINF:-1 group-title="20261107" ,第三場 Dolphins v.s. Bengles
+#EXTINF:-1 group-title="Dolphins" ,第一場20261004 Dolphins V.S. Falcons
+http://cf.hualong.eu.org:5678/Dolphins/20261004/index.m3u8
+http://1173805384.uttcare.com:5678/Dolphins/20261004/20261004.m3u8
+#EXTINF:-1 group-title="Dolphins" ,第二場20261018 Dolphins v.s. Colts
+http://cf.hualong.eu.org:5678/Dolphins/20261018/index.m3u8
+http://1173805384.uttcare.com:5678/Dolphins/20261018/20261018.m3u8
+#EXTINF:-1 group-title="Dolphins" ,第三場20261107 Dolphins v.s. Bengles
+http://cf.hualong.eu.org:5678/Dolphins/20261107/index.m3u8
 http://1173805384.uttcare.com:5678/Dolphins/20261107/20261107.m3u8
+#EXTINF:-1 group-title="Dolphins" ,第四場20261115 Dolphins v.s. 49ers
+http://cf.hualong.eu.org:5678/Dolphins/20261115/index.m3u8
+http://1173805384.uttcare.com:5678/Dolphins/20261115/index.m3u8
 
 
 
