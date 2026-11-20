@@ -812,6 +812,20 @@ http://cf.hualong.eu.org:5678/Dolphins/20261115/index.m3u8
 http://1173805384.uttcare.com:5678/Dolphins/20261115/index.m3u8
 
 
+#EXTINF:-1 group-title="Dolphins" ,第一場20261004官方 Dolphins V.S. Falcons
+http://cf.hualong.eu.org:5678/Dolphins/2026100402/index.m3u8
+http://1173805384.uttcare.com:5678/Dolphins/2026100402/index.m3u8
+#EXTINF:-1 group-title="Dolphins" ,第二場20261018官方 Dolphins v.s. Colts
+http://cf.hualong.eu.org:5678/Dolphins/2026101802/index.m3u8
+http://1173805384.uttcare.com:5678/Dolphins/2026101802/index.m3u8
+#EXTINF:-1 group-title="Dolphins" ,第三場20261107官方 Dolphins v.s. Bengles
+http://cf.hualong.eu.org:5678/Dolphins/2026110702/index.m3u8
+http://1173805384.uttcare.com:5678/Dolphins/2026110702/index.m3u8
+#EXTINF:-1 group-title="Dolphins" ,第四場20261115官方 Dolphins v.s. 49ers
+http://cf.hualong.eu.org:5678/Dolphins/2026111502/index.m3u8
+http://1173805384.uttcare.com:5678/Dolphins/2026111502/index.m3u8
+
+
 
 
 
